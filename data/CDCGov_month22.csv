@@ -1,0 +1,106 @@
+,tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+0,1442587357212037120,CDCGov,"As of September 27, 213.7 million people have received at least one dose of a #COVID19 vaccine. Of those, 183.9 million are fully vaccinated. Getting vaccinated is safe, easy, and free. Make your vaccination appointment today. More: https://t.co/zYLe3H12re https://t.co/2p5mXiFvgr",09/27/2021 20:30:02,215,131,466,27,True
+1,1442527005828861956,CDCGov,"#HCPs: Attend the next COCA call, Tuesday, September 28, from 2–3 p.m. EDT. Topic: What Clinicians Need to Know About the Latest CDC Recommendations for Pfizer-BioNTech COVID-19 Booster Vaccination. Learn more: https://t.co/ozzhkjTS7f. #COVID19 https://t.co/K2GbgHsY8s",09/27/2021 16:30:13,48,53,105,4,True
+2,1441826344661405697,CDCGov,"“Community Protectors” educate children on ways to stay safe &amp; help protect their communities from the spread of #COVID19, a project of CDC, CDC Foundation, &amp; Oklahoma Tribal Engagement Partners.
+
+Download storybook &amp; coloring pages for your children here: https://t.co/pqqRJ4qWiI https://t.co/q6KAse2cHu",09/25/2021 18:06:03,82,58,179,9,True
+3,1441515512211681281,CDCGov,"Populations who may receive a booster dose of Pfizer-BioNTech’s #COVID19 Vaccine:
+- People ages 18–49 w/ an underlying medical condition
+- People ages 18–64 who are at increased risk for COVID-19 exposure &amp; because of the setting they work or reside
+
+More: https://t.co/77CTFuJFcO https://t.co/qiUbdeolft",09/24/2021 21:30:54,247,137,456,36,True
+4,1441515506767384576,CDCGov,"Populations who should receive a booster dose of Pfizer-BioNTech’s #COVID19 Vaccine include:
+- People ages 65+ and residents ages 18+ of long-term care settings
+- People ages 50–64 with an underlying medical condition
+
+More: https://t.co/77CTFuJFcO. https://t.co/GMnqTdyakT",09/24/2021 21:30:53,186,98,360,22,True
+5,1441515499830009857,CDCGov,"CDC recommends that certain populations receive a booster shot of Pfizer-BioNTech’s #COVID19 Vaccine at least 6 months after completion of their 2-dose Pfizer-BioNTech vaccine series.
+
+More: https://t.co/77CTFuJFcO.",09/24/2021 21:30:51,441,900,903,111,False
+6,1441500368844824579,CDCGov,Subscribe to get CDC’s COVID Data Tracker Weekly Review sent to your inbox every Friday: https://t.co/FJy2NI8fK4.,09/24/2021 20:30:44,16,14,31,0,False
+7,1441500202293239808,CDCGov,"As schools return to in-person learning, masks are important for reducing the spread of #COVID19 among kids in K–12 settings. To keep kids safe in school, CDC recommends universal indoor masking, COVID-19 vaccination &amp; testing, &amp; physical distancing. More: https://t.co/F4bAyObDp1 https://t.co/wfqOkJkRAj",09/24/2021 20:30:04,104,59,183,26,True
+8,1441485112437215233,CDCGov,Health departments and community organizations: The #COVID19 Vaccination Field Guide highlights 12 evidence-based strategies to help boost vaccine confidence and uptake in your communities. Download the guide today. More: https://t.co/GeelsE4YIw. https://t.co/shzKJPD6UH,09/24/2021 19:30:06,76,37,128,11,True
+9,1441476284723367939,CDCGov,New @CDCMMWR shows counties w/ school mask requirements had a smaller increase in pediatric #COVID19 case rates than counties w/o school mask requirements. #MaskUp in schools to help control the spread of COVID-19 in children and adolescents. https://t.co/DmzxVJlL4s https://t.co/LKu9WSpxJc,09/24/2021 18:55:02,113,215,240,64,True
+10,1441467477309919233,CDCGov,"In a new @CDCMMWR, CDC &amp; @JHUAPL estimated 96% of K-12 schools are offering in-person learning, but closures due to #COVID19 have affected &gt;900,000 students. Vaccination &amp; testing, physical distancing, &amp; masking help prevent COVID-19 spread. More: https://t.co/2jAyH5yaWf. https://t.co/ddrzRfDhUK",09/24/2021 18:20:02,39,14,95,4,True
+11,1441458676200525827,CDCGov,New @CDCMMWR finds schools in two Arizona counties w/o a mask requirement were 3.5 times more likely to have a #COVID19 outbreak than schools requiring masks from the start of the school year. CDC recommends universal masking for all K–12 schools. More: https://t.co/suuuLNItxJ. https://t.co/zYYqXoLH3j,09/24/2021 17:45:04,373,135,594,111,True
+12,1441450945150431232,CDCGov,Findings in today’s @CDCMMWR reinforce the importance of following CDC recommendations to limit spread of #COVID19 in K-12 schools including wearing masks indoors and vaccinating all eligible students and staff. https://t.co/ZAYrKKYwcn.,09/24/2021 17:14:20,28,15,79,1,False
+13,1441450943472676864,CDCGov,"A 3rd @CDCMMWR report found that 96% of schools have offered in-person learning during the current school year, but closures due to #COVID19 have affected more than 900,000 students. More: https://t.co/2jAyH5yaWf.",09/24/2021 17:14:20,20,8,69,1,False
+14,1441450940523954177,CDCGov,A 2nd @CDCMMWR report looking at in-school mask requirements &amp; pediatric #COVID19 rates found increases in rates during start of the 2021–22 school year were smaller in U.S. counties w/ school mask requirements than in those w/o school mask requirements. https://t.co/DmzxVJ49FS.,09/24/2021 17:14:19,21,8,56,5,False
+15,1441450937525080075,CDCGov,A @CDCMMWR report looking at schools in two AZ counties found that schools w/o a mask requirement were 3.5 times more likely to have a #COVID19 outbreak than schools that required masks from the start of the school year. More: https://t.co/suuuLNItxJ. https://t.co/P4k7mMqf86,09/24/2021 17:14:19,74,14,124,20,True
+16,1441439842966011912,CDCGov,"RT @CDCDirector: COVID-19 vaccine booster doses are recommended for elderly, ppl in long-term care facilities, &amp; ppl &gt;50 yrs of age w/ unde…",09/24/2021 16:30:13,294,0,0,0,False
+17,1441432370461163524,CDCGov,"#VaxFact: None of the #COVID19 vaccines authorized or approved for use in the United States shed or release their parts.
+
+Learn more and get your COVID-19 vaccine today: https://t.co/c3T9VAF5Ce. https://t.co/n61tVlLtNE",09/24/2021 16:00:32,127,71,225,8,True
+18,1441417218710024193,CDCGov,"Delta is currently the only SARS-CoV-2 variant of concern in the United States. All other variants are now Variants Being Monitored (VBM), a new class of variants that no longer pose a significant health risk in the United States. More: https://t.co/A8k3KsRNPj. #COVID19 https://t.co/GltDV5y3bB",09/24/2021 15:00:19,290,87,573,25,True
+19,1441411030412771332,CDCGov,"RT @HHSGov: HHS is focused on staying ahead of the #virus by making sure people have the most protection against #COVID19 infection, severe…",09/24/2021 14:35:44,94,0,0,0,False
+20,1441386185587257359,CDCGov,CDC Director Dr. Rochelle Walensky endorses ACIP recommendation for a booster shot of Pfizer-BioNTech #COVID19 vaccine in certain populations &amp; also recommended booster dose for those in high risk occupational/ institutional settings. See full statement. https://t.co/X4HgVB4xJo,09/24/2021 12:57:00,236,143,575,66,False
+21,1441154718483558400,CDCGov,"#COVID19 cases are decreasing in the U.S. but community transmission remains high. 7-day average of daily new cases is 121,533, a 17.1% decrease from the previous week. 
+
+Get vaccinated as soon as you can!
+
+More: https://t.co/iSLwhCwlZ2. https://t.co/xWqWDD5HXH",09/23/2021 21:37:14,283,196,730,44,True
+22,1441152165616095236,CDCGov,RT @ASTHO: .@msdh's Adrienne Williams &amp; ASTHO's Haley Burrous explain a positive side effect of Mississippi’s in-home #COVID19 vaccination…,09/23/2021 21:27:06,20,0,0,0,False
+23,1441122739381628931,CDCGov,"Due to the combined national efforts of academic, private, &amp; public health laboratories, over 1 million US sequences of the virus that causes #COVID19 have been submitted to @GISAID. Data is publicly available for scientists researching the virus. More: https://t.co/q69nQji95h. https://t.co/Dx0LEDHhua",09/23/2021 19:30:10,57,42,135,6,True
+24,1441115218562535432,CDCGov,"DYK? Unvaccinated people are 17x more likely to be hospitalized with #COVID19 than people who are fully vaccinated, according to a study by CDC’s COVID-NET. 
+
+Get vaccinated to protect yourself and others: https://t.co/xbvNibdkCt. https://t.co/YzuMtmEpCU",09/23/2021 19:00:17,541,270,787,64,True
+25,1441100053968408576,CDCGov,"Parents &amp; caregivers: Slow the spread of #COVID19 this school year. Get kids 12+ vaccinated against COVID-19. Talk to your children about masking, distancing, &amp; frequent handwashing so they can make choices that keep them safer at school. More: https://t.co/lBbMr00fuG. https://t.co/YA8CDhiet5",09/23/2021 18:00:01,147,91,236,16,True
+26,1441087488680812560,CDCGov,A new CDC FoodNet report in @CDCMMWR shows why cases of #foodborne infections fell sharply in the U.S. in 2020. Learn more about how public health measures related to #COVID19 may have contributed to the decline: https://t.co/XIVmxlC61C. https://t.co/BXjvTbAEvh,09/23/2021 17:10:06,33,12,111,6,True
+27,1441069970394267657,CDCGov,"Getting vaccinated is still the best way to protect yourself and help slow the spread of #COVID19. By slowing the spread, we can reduce the chance of new variants emerging.
+
+Find a vaccine near you: https://t.co/xbvNibdkCt. https://t.co/EgMcmEvfc5",09/23/2021 16:00:29,298,134,498,17,True
+28,1440775498427092998,CDCGov,"As of September 20, national forecasts predict 360,000–1,290,000 new #COVID19 cases will likely be reported during the week ending October 16. More: https://t.co/7AP4I49KHs. https://t.co/BfC6znLFzE",09/22/2021 20:30:21,22,15,43,3,True
+29,1440775489321201673,CDCGov,"As of September 20, national forecasts predict 6,300–18,000 new #COVID19 deaths will likely be reported during the week ending October 16. That would bring the projected total number of U.S. deaths to 709,000–736,000. More: https://t.co/rcqjOWMn0L. https://t.co/6wqCAEqeMi",09/22/2021 20:30:19,20,19,49,5,True
+30,1440775473168977921,CDCGov,"As of September 20, national forecasts predict 4,600–11,800 new #COVID19 hospitalizations will likely be reported on October 18. More: https://t.co/Xys80ZXWpt. https://t.co/9xGbGDE6VE",09/22/2021 20:30:15,59,47,111,8,True
+31,1440765356872589320,CDCGov,"For every 100 #COVID19 cases from mid-June through Oct. 2020, contact tracing reduced spread by as much as 32% and prevented up to 97 more cases after accounting for prevention measures like mask wearing. Learn more: https://t.co/rtops5aH9f. https://t.co/tJFyigUFPs",09/22/2021 19:50:03,203,129,472,28,True
+32,1440758072360591364,CDCGov,"At this time, scientists only sequence #COVID19 samples to monitor the spread of variants and study their genetic code, not for individual diagnostic purposes.
+
+Learn more about tracking variants: https://t.co/vQ2ABT52cj.",09/22/2021 19:21:07,21,10,49,2,False
+33,1440757805347049480,CDCGov,"If you test positive for #COVID19, your sample may be sent to CDC or our partners for sequencing. Sequencing is a laboratory technique that analyzes the genetic material of your sample to determine which variant is present. Learn more: https://t.co/vQ2ABT52cj. https://t.co/9fqQZWla7Z",09/22/2021 19:20:03,76,44,201,12,True
+34,1440742357784092673,CDCGov,"#COVID19 vaccines used in the US help protect against all known variants, including Mu and Delta. Get vaccinated: https://t.co/xbvNibdkCt.",09/22/2021 18:18:40,128,64,290,9,False
+35,1440741955902709772,CDCGov,"You may have heard about the Mu variant in the news recently. Right now, this variant is steadily decreasing and is causing very few cases in the US.
+
+CDC will continue to monitor Mu &amp; other variants. Sign up to get updates on variants in the US: https://t.co/mYitWQZiai. #COVID19 https://t.co/wf8ekaXDep",09/22/2021 18:17:04,280,98,758,58,True
+36,1440733894643372041,CDCGov,"🧪 COVID-19 Science Update:
+ 
+Read the latest research on hospitalized pregnant women with #COVID19, vaccination safety during pregnancy, and more.
+ 
+👓 Read the full update: https://t.co/fpkMeE7dcF.",09/22/2021 17:45:02,59,26,104,4,False
+37,1440726386226782213,CDCGov,"#DYK: VAERS data alone cannot show that an adverse event following #COVID19 vaccination was caused by the vaccine. Anyone can report an event to VAERS, and the reports may be inaccurate or unverifiable.
+
+More on VAERS: https://t.co/xSe61xdKcE. https://t.co/8JMNjpLLAV",09/22/2021 17:15:12,77,158,184,51,True
+38,1440692474746335234,CDCGov,"When the Alaska Department of Health and Social Services began #COVID19 vaccination planning in August 2020, they knew they’d face challenges.
+
+Their careful planning paid off. As of September 2021, over 55% of Alaska is fully vaccinated. 
+
+More: https://t.co/MOgu3P6oW3. https://t.co/165gwnwJPG",09/22/2021 15:00:27,66,57,402,13,True
+39,1440420601861079053,CDCGov,"Pregnant and recently pregnant people are more likely to get very sick and die from #COVID19. More than 120,000 pregnant people have had COVID-19 since Jan 22, 2020. If you are pregnant, get vaccinated &amp; take steps to protect yourself &amp; your baby. More: https://t.co/tvR0iCuokN. https://t.co/3ipFIsYeZb",09/21/2021 21:00:07,517,249,800,86,True
+40,1440413035642818565,CDCGov,Learn how you can keep your kids safe and healthy this year! We sat down with @NationalPTA on their #BackpackNotes podcast to share info parents need as their kids go #BacktoSchool. Listen to the #BackpackNotes podcast wherever you listen or at https://t.co/J2P3wUejmk. #COVID19 https://t.co/tuob7WdwKg,09/21/2021 20:30:03,41,17,67,2,True
+41,1440362823473778691,CDCGov,"#COVID19 outbreak described in @CDCMMWR demonstrates how vaccination and other prevention measures, including testing and masks, are necessary to slow spread and save lives in congregate settings. More: https://t.co/w2e3fXkI02.",09/21/2021 17:10:32,42,22,89,3,False
+42,1440362819870883852,CDCGov,A new @CDCMMWR study of a #COVID19 outbreak among incarcerated people in a federal prison in Texas found that unvaccinated people were more likely to experience severe illness than vaccinated people. More: https://t.co/w2e3fXkI02. https://t.co/wRZPG0eqVn,09/21/2021 17:10:31,143,99,321,15,True
+43,1440345190112247823,CDCGov,"Getting a #COVID19 vaccine is the best way to help prevent COVID-19, especially severe illness and death. Get vaccinated today:
+
+💻Search https://t.co/2akIUZiFIL 
+📱 Text your ZIP code to 438829
+📞Call 1-800-232-0233 https://t.co/ELcjN1rbtM",09/21/2021 16:00:28,155,97,270,20,True
+44,1440045599345156104,CDCGov,"#HCPs: MIS-C is a rare, but serious condition in children, adolescents, or young adults who have had #COVID19 in the past 6 weeks. CDC has new resources to help you diagnose and treat MIS-C. Learn more: https://t.co/lV4Clc6x0l.
+#Pediatrics #HealthyChildren #Children #Adolescents https://t.co/lmG6BMmUKw",09/20/2021 20:10:00,97,35,154,14,True
+45,1439982768599994373,CDCGov,Residents in long-term care settings are disproportionately affected by #COVID19 disease. Learn more about what CDC and its partners are doing to provide residents and staff access to COVID-19 vaccines: https://t.co/A4NXtXoZKt. https://t.co/gh3GVmrEsz,09/20/2021 16:00:20,44,59,96,6,True
+46,1438971175833587712,CDCGov,Subscribe to get CDC’s COVID Data Tracker Weekly Review sent to your inbox every Friday: https://t.co/FJy2NI8fK4.,09/17/2021 21:00:37,23,29,58,1,False
+47,1438971071282257924,CDCGov,"The virus that causes #COVID19 can change quickly and often, producing new types of the virus, or variants. Delta is still the most common variant in the U.S. Get vaccinated to help prevent new variants from emerging. More: https://t.co/F4bAyObDp1. https://t.co/ZcSPIHHl61",09/17/2021 21:00:12,250,218,472,32,True
+48,1438964733416288261,CDCGov,"COVID-NET data show hospitalization rates for children are surging. For the week ending 8/28, the #COVID19 hospitalization rate for children ages 4 yrs. &amp; younger was the highest recorded. All children 2 yrs. &amp; older should #MaskUp in indoor public spaces. https://t.co/mMMus2BuPg https://t.co/zjuikjmVTm",09/17/2021 20:35:01,177,106,215,26,True
+49,1438944102071119875,CDCGov,"Regular COVID-19 testing helps keep schools open and stop future outbreaks. Parents: If your school is offering regular #COVID19 testing, sign your child up. Learn more at https://t.co/2tVvXo4VXf. https://t.co/gBFKy58YCN",09/17/2021 19:13:02,55,39,108,7,True
+50,1438933415978491908,CDCGov,"At this time, scientists only perform sequencing on samples to monitor the spread of variants and study their genetic code, not for individual diagnostic purposes. Learn more about variants: https://t.co/vQ2ABTmDAT. #COVID19",09/17/2021 18:30:35,19,3,42,4,False
+51,1438933291818790912,CDCGov,"#COVID19 diagnostic tests can detect all variants but won't tell you which variant you have. If you test positive, your sample may be sent to CDC or partners for sequencing, a lab technique that analyzes your sample to tell which variant is present. https://t.co/vQ2ABTmDAT https://t.co/inMwoaYtXt",09/17/2021 18:30:05,48,17,116,6,True
+52,1438928262080696324,CDCGov,Many hospitals are overwhelmed with #COVID19 patients. A COVID-NET study shows unvaccinated people are 17x more likely to be hospitalized than fully vaccinated people. Get vaccinated to protect yourself and others &amp; help reduce the strain on hospitals. https://t.co/xbvNiaVJKV https://t.co/wfBFbkvuLl,09/17/2021 18:10:06,855,340,1447,103,True
+53,1438913163974545416,CDCGov,New @CDCMMWR shows all 3 #COVID19 vaccines used in the US provide strong protection against COVID-19 hospitalizations. The best vaccine is the one that’s available to you now. #SleeveUp. More: https://t.co/cSIE2yXeCI https://t.co/kKBFg1rVHx,09/17/2021 17:10:06,84,66,171,12,True
+54,1438903309952294912,CDCGov,"Funding to 64 health departments means a dramatic improvement to the safety and quality of U.S. health care during the #COVID19 pandemic &amp; into the future. Detection, prevention &amp; response like we’ve never been able to do before. https://t.co/kqynUiJRGj.",09/17/2021 16:30:57,23,3,70,3,False
+55,1438903111272239108,CDCGov,CDC to invest $2.1 billion in healthcare #InfectionControl to strengthen and equip state and other public health departments and other partner organizations in the fight against #COVID19 &amp; other infectious diseases. https://t.co/kqynUiJRGj https://t.co/DONHRtycpJ,09/17/2021 16:30:09,66,36,171,12,True
+56,1438608772667215880,CDCGov,"U.S. #COVID19 cases are increasing and community transmission is high. 
+The 7-day average of daily new cases is 146,182. This is 6.1% higher than the previous week. Get vaccinated. Learn more: https://t.co/FeTyQ7VQeP. https://t.co/dNVcR5Serf",09/16/2021 21:00:34,768,349,1121,120,True
+57,1438585983432331271,CDCGov,"#Parents &amp; caregivers: Is your school helping protect your child from #COVID19? CDC recommends schools require universal indoor masking &amp; use other prevention strategies regardless of how many students, educators, and staff are currently vaccinated. More: https://t.co/lBbMr0hQTg.",09/16/2021 19:30:00,271,153,460,40,False
+58,1438574667992899587,CDCGov,"New @CDCMMWR finds that among people aged 18+ who tested positive for #COVID19, 1 in 3 reported at least 1 symptom 2 months after the positive test. Rates were higher among those 40 &amp; older, females, those w/ pre-existing conditions, &amp; Black people. More: https://t.co/EUApgQaGoC. https://t.co/dBTm5oNQSl",09/16/2021 18:45:02,84,25,160,13,True
+59,1438563415757410307,CDCGov,"New @CDCMMWR looking at BMI among children and teens suggests many gained weight faster during the pandemic, especially those with overweight and obesity. This shows importance of obesity prevention efforts for children during &amp; after #COVID19. Read more: https://t.co/8CDE0qOf9r. https://t.co/TwkmLLVlMJ",09/16/2021 18:00:20,43,33,101,16,True
+60,1438550759377932290,CDCGov,New @CDCMMWR shows Pacific Islander persons—just 5% of Hawaii’s population—had state’s highest rates of #COVID19 cases &amp; related deaths during Mar 2020-Feb 2021. This highlights the value of collecting race info to identify &amp; address health disparities. https://t.co/r9fpgDEsA9 https://t.co/TLxctXSoYB,09/16/2021 17:10:02,27,7,85,4,True
+61,1438533137571606534,CDCGov,It’s normal to have questions about #COVID19 vaccines. Talk with your friends and family about their questions and help them get vaccinated against COVID-19. Find tips here: https://t.co/tGGql4V2q2. https://t.co/XNGZexz7I4,09/16/2021 16:00:01,130,101,200,11,True
+62,1438233927244828675,CDCGov,"As of September 13, national forecasts predict 290,000–1,360,000 new #COVID19 cases will likely be reported during the week ending October 9. More: https://t.co/7AP4I3S9PU. https://t.co/nwWUrTVK59",09/15/2021 20:11:04,32,27,67,12,True

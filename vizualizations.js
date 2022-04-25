@@ -24,8 +24,8 @@ function displayPieChart(){
    var pie = d3.pie()
     .value(function(d) {
         return d[1]; })
-    .sort(function(a, b) {  return d3.ascending(a.key, b.key);} ) // This make sure that group order remains the same in the pie chart
     
+    console.log(pie)
 
     var map = d3.rollup(all_tweets, v => v.length, d => d.has_viz)
     var map_entries = map.entries()
@@ -38,39 +38,47 @@ function displayPieChart(){
     .range(["#143F6B", "#F55353"])
     
     var label = d3.arc()
-                      .outerRadius(radius+100)
+                      .outerRadius(0)
                       .innerRadius(radius - 10);
 
     var data_ready = pie(Object.entries(data))
+    console.log(data_ready)
+
     svg.selectAll('path')
     .data(data_ready)
     .enter()
     .append('path')
+    .attr('fill', function(d){ 
+        return(color(d.data[0])) })
     .attr('d', d3.arc()
         .innerRadius(0)
         .outerRadius(radius)
     )
-    .attr('fill', function(d){ 
-        return(color(d.data[0])) })
+
     .attr("stroke", "black")
     .style("stroke-width", "2px")
     .style("opacity", 0.7)
+   
+
+    svg.append("g")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 12)
+      .attr("text-anchor", "middle")
+    .selectAll("text")
+    .data(data_ready)
+    .enter()
     .append("text")
-    .attr("transform", function(d) { 
-            return "translate(" + label.centroid(d) + ")"; 
+    .attr("transform", d => `translate(${label.centroid(d)})`)
+    .selectAll("tspan")
+    .data(function(d){
+        return [d.data[0],Math.round(d.data[1]*10)/10+"%"]
     })
-    .text(function(d) { return d.data[0]; });
-
-    // var arc = svg.selectAll(".arc")
-    //                     .data(data_ready)
-    //                     .enter().append("g")
-    //                     .attr("class", "arc");
-
-
-
-    //console.log("Hello",arc)
-        
-    // arc
+    .enter()
+    .append("tspan")
+    .attr("x", 0)
+      .attr("y", (_, i) => `${i * 1.2}em`)
+      .attr("font-weight", (_, i) => i ? null : "bold")
+    .text(d => d)
      
     }
 

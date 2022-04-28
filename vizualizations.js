@@ -32,7 +32,7 @@ function displayPieChart(){
     var no_viz = map_entries.next().value[1]
     var viz = map_entries.next().value[1]
     var total = no_viz+viz
-    var data = {viz:(viz/total)*100,no_viz:(no_viz/total)*100}
+    var data = {"With Visualizations":(viz/total)*100,"Without Visualizations":(no_viz/total)*100}
 
     var color = d3.scaleOrdinal().domain(Object.keys(data))
     .range(["#143F6B", "#F55353"])
@@ -58,7 +58,6 @@ function displayPieChart(){
     .attr("stroke", "black")
     .style("stroke-width", "2px")
     .style("opacity", 0.7)
-   
 
     svg.append("g")
       .attr("font-family", "sans-serif")

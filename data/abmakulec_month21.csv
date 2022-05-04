@@ -1,0 +1,33 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1430996550692507653,abmakulec,@EpiEllie I think your follower count doubled since we had our interview for @tableau's COVID-19 Data Hub in April 2020. https://t.co/eC8EnqQfyt,08/26/2021 20:52:18,0,1,6,0,False
+1428406050043088908,abmakulec,"RT @Doc_Courtney: Dear news agencies, a #COVID19 incidence rate is NOT a transmission rate.",08/19/2021 17:18:35,2,0,0,0,False
+1428032203171278850,abmakulec,@bethlinas @WHO I didn't want this remembrance of lessons learned from one of my @BUSPH global health policy professors (from 3/16/20) to be so painfully relevant in 2021 as we talk about #COVID19 boosters for the US v. first doses for the rest of the world. https://t.co/CyU5wt9cjJ https://t.co/OYatBKZKJ3,08/18/2021 16:33:03,0,0,5,0,True
+1427715231162277895,abmakulec,"A really effective waterfall chart IMHO, highlighting the COVID-19 vaccine supply impacts from different policy actions all in one chart. #dataviz #healthviz https://t.co/JCpGkfQrVJ",08/17/2021 19:33:31,1,0,2,0,False
+1427343600694841348,abmakulec,"👇👇👇
+
+I really hope the huge focus on tracking COVID translates into political will and $$$ to strengthen these systems and staff the data and tech teams appropriately. https://t.co/l1i0N3tu80",08/16/2021 18:56:47,0,0,3,0,False
+1425137296005861383,abmakulec,"Is 2021 going to be the year of the waffle chart (and its derivatives)? They're particularly effective when one category is very small and would get lost in a bar chart.
+
+Example from a new paper on the effectiveness of the COVID vaccines in reducing hospitalization and death. 👇 https://t.co/Rnfz6NhrmL",08/10/2021 16:49:43,1,1,8,1,False
+1424926807099420705,abmakulec,"There are a lot of public health concepts that people have learned over the last year+ in this pandemic.
+
+But never did I expect that EMTALA and health law would be widely discussed (maybe out of blind hope that we wouldn't hit hospital capacity limits).",08/10/2021 02:53:19,0,0,1,0,False
+1424758464207900677,abmakulec,"Asking about why to get vaxxed if you've recovered from COVID is a very fair question.
+
+The evidence of the benefits of vaccination against COVID even if you've previously been infected continues to grow - new data from Kentucky via @CDCMMWR https://t.co/opJpF4ECnv",08/09/2021 15:44:23,0,0,1,0,False
+1424166222623649796,abmakulec,"@Jasonforrestftw @kennethfield @CovidActNow Plus, I think it's actually better for a public health agency like @cdcgov to transparently assign a plain language, categorical level to each county than to expect people to interpret what the straight numbers mean to them. 
+
+Key there being transparent data and criteria.",08/08/2021 00:31:01,0,0,0,0,False
+1424165700583702528,abmakulec,"@Jasonforrestftw @kennethfield @CovidActNow If positivity is low (indicating widespread testing) and incidence is high, then there's a validated high burden of COVID in the county and that's a concern.
+
+In either case, it makes sense to assign the level of concern based on the more concerning of the two.
+
+2/2",08/08/2021 00:28:57,0,1,0,0,False
+1424165255916236800,abmakulec,"@Jasonforrestftw @kennethfield It's logically consistent with some other trackers like @CovidActNow (assign rating based on worse performing variable), and makes sense to me because the metrics assess different things. 
+
+If incidence is relatively low but positivity high, incidence is likely underreported. 1/2",08/08/2021 00:27:11,0,2,0,0,False
+1423622579974180867,abmakulec,"RT @bhrenton: Front page of this weekend's @USATODAY (h/t @brianstelter):
+
+""We are failing one another""
+
+""This is America's fourth COVID-19…",08/06/2021 12:30:47,65,0,0,0,False

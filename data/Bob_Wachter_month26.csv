@@ -1,0 +1,55 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1486815542505721856,Bob_Wachter,"RT @calonghurst: Incidence of new onset type 1 diabetes increased 57% among San Diego children in the first year of the pandemic! 📈
+
+Data f…",01/27/2022 21:37:03,683,0,0,0,False
+1486773650929831940,Bob_Wachter,"Tragically, we've all become numb to Covid's death toll. Sometimes it takes a tangible comparison to shake us out of complacency. 
+I had such a moment today, when Covid deaths in the U.S. hit 875,000. That, as it happens, is the population of my city, San Francisco. Staggering. https://t.co/WjGNyy5fUE",01/27/2022 18:50:35,2950,272,7810,224,True
+1486726093583179782,Bob_Wachter,"… it’s an actual risk for a Covid booster administered every 6 months or so. https://t.co/ir7NWkzgxv To me, the epidemiological data showing fewer cases &amp; fewer severe cases would outweigh this theoretical concern. (18/25)",01/27/2022 15:41:37,3,2,101,0,False
+1486726090689187847,Bob_Wachter,"And, since it’s Covid, it’s not just about the individual (unlike if we were considering NNT for Lipitor in preventing MI's). Preventing infection (Israel cited a 2-fold drop in risk for symptomatic Covid) benefits the individual AND the community, by lowering spread. (16/25)",01/27/2022 15:41:36,5,1,91,1,False
+1486726089237938197,Bob_Wachter,"But vaccines are a bit different than cholesterol meds or chemo. First, they're incredibly safe. 2nd, they’re extremely cheap (free in fact). 3rd, the benefit is not just about preventing death, but also preventing hospitalizations, &amp; likely lowering risk of Long Covid. (15/25)",01/27/2022 15:41:36,7,4,107,0,False
+1486726085857333259,Bob_Wachter,"The NNT answers this question: how many people need to get the intervention (here, a 2nd booster) to prevent the outcome of interest (here, death from Covid). We’ll use this calculator https://t.co/ORjwuExroB to estimate the NNT for an intervention that reduces the… (13/25)",01/27/2022 15:41:35,2,1,63,0,False
+1486726084288651266,Bob_Wachter,"…would improve them, to 1-in-2250 (0.044%). Is it worth getting the shot? 
+To figure that out, let’s return to a concept I introduced when I discussed whether to treat my son’s Covid: the Number Needed to Treat (NNT). https://t.co/EU772ZKNxb (12/25)",01/27/2022 15:41:35,5,4,78,3,False
+1486726075702939653,Bob_Wachter,"…100-fold compared to an unvaxxed person (same Fig, for emphasis). 
+Let’s consider a 65-year-old man w/ no additn'l risk factor. Using UK calculator https://t.co/GzN6Meygb6 (incl. vax Y/N, but built pre-Omicron), risk of 65 yo dying after case of Covid was 1-in-442 (0.2%).(7/25) https://t.co/UhlAp6llyS",01/27/2022 15:41:33,4,6,76,0,True
+1486726072280354821,Bob_Wachter,"…Covid was, say, one-in-ten (IT'S NOT!), the decision would be a no-brainer: one-in-10 vs. one-in-30 is a big, clinically meaningful, difference. 
+But the population at issue here is people who’ve already gotten 3 shots – they’ve lowered their risk of severe infection… (6/25)",01/27/2022 15:41:32,4,1,78,0,False
+1486726070829076484,Bob_Wachter,"Let’s start with Q2 first. As with many Covid risk-benefit calculations, it is massively complicated &amp; fairly nuanced. A 3-fold drop sounds like a lot, &amp; so the decision to take a remarkably safe booster may feel like a slam dunk. And if your risk of dying from a case of…(5/25)",01/27/2022 15:41:31,3,1,75,0,False
+1486399368538193920,Bob_Wachter,"RT @EricTopol: New @ONS report on #LongCovid 
+2 doses of a vaccine before infection was associated with a 41% decrease in the odds of repor…",01/26/2022 18:03:20,379,0,0,0,False
+1486152877408018434,Bob_Wachter,"RT @meganranney: “But in general, what’s standing in the way of normal life is Covid, not Covid prevention.”
+
+Preach @michelleinbklyn 
+
+htt…",01/26/2022 01:43:52,733,0,0,0,False
+1486096614754119680,Bob_Wachter,Fascinating @ZekeEmanuel &amp; @mtosterholm piece on China's Zero-Covid policy. https://t.co/ZC3bo1uEZJ A bit counterintuitive – hard to argue w/ China's success in containment to date. But combo of less effective vaccine &amp; little case-derived immunity could spell trouble w/ Omicron.,01/25/2022 22:00:17,5,12,59,0,False
+1486012548180688899,Bob_Wachter,"RT @EricTopol: 2 new reports on myocarditis with Covid and vaccines
+Hong Kong review of 160 cases
+Risk of Pfizer 0.6/100,000 doses vs much…",01/25/2022 16:26:14,212,0,0,0,False
+1486001189401550862,Bob_Wachter,"RT @ashishkjha: We're in a transition moment in this pandemic
+
+We're coming off highs of the worst surge of infections we've ever had
+
+Case…",01/25/2022 15:41:06,1660,0,0,0,False
+1485997850915971080,Bob_Wachter,"RT @EricTopol: Straight talk on a Covid endemic state, new @nature
+https://t.co/J16ZGVPX7m
+by @ArisKatzourakis
+""There is a widespread, rosy…",01/25/2022 15:27:50,1293,0,0,0,False
+1485768659838517248,Bob_Wachter,"One more 7-day average that underestimates ⬇Covid (&amp; less subject to bias than case #'s):
+@UCSFHospitals test pos. rates:
+Symptomatic pts: 7-d avg ⬇to 44.1% (was ~50% at peak). But last 3 days: 41, 37, 35%
+Asymptomatic: 7-d avg ⬇to 10.2% (peak ~12%). But last 3 days: 6, 8, 6% https://t.co/WaKFgsB1aU",01/25/2022 00:17:07,23,9,185,2,True
+1485764050470334464,Bob_Wachter,"RT @EricTopol: How to reduce your chance of dying from Covid by 99%? 
+Get vaccinated and a booster.
+One of the most impressive graphs I've…",01/24/2022 23:58:48,4469,0,0,0,False
+1485750150353932294,Bob_Wachter,"Even ""simple"" Covid data points can be confusing. Take SF's case curve:
+https://t.co/2rfUCoR0fR 
+When cases were skyrocketing (in early Jan), the 7-day average of cases UNDERestimated what was happening ""right now."" Conversely, a 7-d avg OVERestimates cases when they're...(1/7)🧵",01/24/2022 23:03:34,22,15,161,4,False
+1485287961482579970,Bob_Wachter,RT @ASlavitt: COVID Update: February 2022 would be a perfect time for a reset in our pandemic response to face whatever lies ahead m. 1/,01/23/2022 16:26:59,1571,0,0,0,False
+1485285715428605956,Bob_Wachter,"RT @gregggonsalves: A cri de coeur from @meganranney: ""Two years ago, I hoped the pandemic would help us marshal resources and political wi…",01/23/2022 16:18:04,60,0,0,0,False
+1484928163364835331,Bob_Wachter,"Covid-19 accelerated the digital transformation of healthcare, and gave us a taste of the potential (particularly in telemedicine &amp; #dataviz). Terrific @theNAMedicine report explores lessons learned &amp; the enormous work that remains. https://t.co/V3YqaSqVK1 #TransformingHealth",01/22/2022 16:37:17,23,0,102,4,False
+1484754202383425537,Bob_Wachter,"I feel for you. Vaccines do have partial efficacy for some. And Paxlovid is a huge deal; it works independent of the immune system. Assuming its 90% efficacy against severe cases holds up, it should bring the risk down to a level where Covid doesn't feel like a constant threat. https://t.co/MiCACPv5np",01/22/2022 05:06:01,45,25,423,1,False
+1484729227802935300,Bob_Wachter,"… ticking through a Covid risk algorithm several times a day is attractive.
+After living w/ the anxiety of Covid for so long, this transition is as tricky as the one we made in March 2020. We’ll all need to sort it out at our own pace – let's be patient with one another.(25/end)",01/22/2022 03:26:47,23,38,598,2,False
+1484729224199999490,Bob_Wachter,"…I plan to act, well, normal. I’ll accept the possibility that I’ll get Omicron, reassured by the high likelihood that it’ll be a mild case, that I’ll be able to diagnose it quickly &amp; isolate, &amp; that chances of Long Covid are very low in fully vaxxed people. Of course,...(22/25)",01/22/2022 03:26:46,8,1,177,2,False
+1484729219380699140,Bob_Wachter,"Some of my masking will be protection not just vs. Covid but also other respiratory bugs, incl. flu. I used to get a nasty URI every winter, which triggered my asthma, and I haven’t had that for 2 years. If masking in high-risk places makes wheezing less likely, why not? (18/25)",01/22/2022 03:26:45,19,3,247,4,False

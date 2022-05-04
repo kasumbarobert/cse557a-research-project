@@ -1,1 +1,40 @@
-""
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1222998147422736384,BNONews,"BREAKING: Italy cancels all flights to and from China, confirms 2 cases of coronavirus in Rome https://t.co/KxdT2gTzDf",01/30/2020 21:40:55,513,23,777,155,False
+1222968727869775872,BNONews,BREAKING: World Health Organization declares new coronavirus a public health emergency of international concern,01/30/2020 19:44:01,1031,87,1377,243,False
+1222817609323896833,BNONews,BREAKING: Russia closes border with China to prevent outbreak of coronavirus - TASS,01/30/2020 09:43:31,472,23,1012,360,False
+1222794700014395393,BNONews,BREAKING: India and the Philippines report 1st cases of coronavirus https://t.co/KxdT2gTzDf,01/30/2020 08:12:29,132,12,162,28,False
+1222647329204908034,BNONews,"RT @BNODesk: BREAKING: Epicenter of coronavirus outbreak reports more than 1,000 new cases and 37 new deaths, raising death toll to 162 htt…",01/29/2020 22:26:53,436,0,0,0,False
+1221959863179366410,BNONews,"RT @BNODesk: BREAKING: Epicenter of coronavirus outbreak reports 1,291 new cases and 24 new deaths, raising death toll to 106 https://t.co/…",01/28/2020 00:55:08,416,0,0,0,False
+1221935762851213312,BNONews,BREAKING: Germany reports first case of coronavirus https://t.co/KxdT2gTzDf,01/27/2020 23:19:22,412,21,450,76,False
+1221772431884476419,BNONews,BREAKING: Cambodia's health minister confirms the country's 1st case of coronavirus,01/27/2020 12:30:21,135,9,182,24,False
+1221708159720488960,BNONews,WATCH: Passengers arriving in Italy on a flight from Hong Kong have their temperature checked in an effort to prevent coronavirus https://t.co/EykUlw5ixq,01/27/2020 08:14:58,719,43,894,77,True
+1221636978799718401,BNONews,"BREAKING: Mongolia closes border with China, shuts down schools, and bans public gatherings in an effort to prevent coronavirus - state media",01/27/2020 03:32:07,455,26,752,68,False
+1221282843315396609,BNONews,BREAKING: China's Jiangxi province bans public gatherings and closes public venues in effort to contain coronavirus. Follow our second account @BNODesk for updates.,01/26/2020 04:04:54,112,12,220,17,False
+1220962957552693248,BNONews,RT @BNODesk: NEW: Death toll from coronavirus outbreak rises to 42 https://t.co/XQhLD5wMuG,01/25/2020 06:53:48,109,0,0,0,False
+1220876364393349120,BNONews,BREAKING: Australia confirms 1st case of new coronavirus - Health officials,01/25/2020 01:09:42,409,16,331,47,False
+1220841855795040258,BNONews,"BREAKING: New coronavirus strain has officially surpassed 1,000 confirmed cases around the world https://t.co/KxdT2gTzDf",01/24/2020 22:52:35,252,17,332,45,False
+1220789667819335686,BNONews,BREAKING: France reports Europe's 1st confirmed cases of new coronavirus https://t.co/KxdT2gTzDf,01/24/2020 19:25:12,207,28,243,93,False
+1220725829606481920,BNONews,"BREAKING: Chicago woman diagnosed with new coronavirus, making it the 2nd case in the U.S.",01/24/2020 15:11:32,659,83,724,200,False
+1220648525064822784,BNONews,WATCH: Video shows the situation at a hospital at the epicenter of the coronavirus outbreak; it has now been removed from China's social media platform https://t.co/uC5QYY9Z0a,01/24/2020 10:04:21,1832,117,1794,276,True
+1220403146121535488,BNONews,"BREAKING: Chinese officials say a 4th city, Xianning with a population of 2.5 million, will be put on lockdown to prevent the spread of coronavirus",01/23/2020 17:49:18,624,53,877,200,False
+1220376293746925568,BNONews,"BREAKING: Chinese cities of Huanggang and Chibi are now on lockdown due to coronavirus, raising number of people in locked down cities to 18.5 million",01/23/2020 16:02:36,216,13,262,56,False
+1220332843869536257,BNONews,BREAKING: Singapore reports 1st confirmed case of new coronavirus https://t.co/KxdT2gTzDf,01/23/2020 13:09:57,152,9,134,22,False
+1220331436147867650,BNONews,WATCH: Highways near Wuhan have been blocked to stop people from leaving the city of 11 million in an effort to contain coronavirus https://t.co/gkZ1RNKQAK,01/23/2020 13:04:21,587,24,579,142,False
+1220317286050848768,BNONews,BREAKING: Beijing cancels all major events due to coronavirus,01/23/2020 12:08:08,203,6,172,22,False
+1220312284045762560,BNONews,"BREAKING: Chinese officials say a 3rd city, Chibi with a population of nearly half a million, will be put on lockdown to prevent the spread of coronavirus",01/23/2020 11:48:15,417,18,319,80,False
+1220266063147012096,BNONews,"BREAKING: Second Chinese city, Huanggang, will be put on lockdown from midnight to prevent the spread of coronavirus",01/23/2020 08:44:35,592,38,551,109,False
+1220183415993008130,BNONews,WATCH: Wuhan train station cordoned off as the city of 11 million goes on lockdown to stop the spread of coronavirus https://t.co/nV743GcUBg,01/23/2020 03:16:10,975,39,771,187,False
+1220164783149809666,BNONews,"BREAKING: China's city of Wuhan, which has a population of 11 million, has been put on lockdown to stop the spread of coronavirus",01/23/2020 02:02:08,303,15,428,58,False
+1220156684947132417,BNONews,"Scores of people are trying to leave Wuhan, China, before the city of 11 million is put on lockdown to prevent the spread of coronavirus - SCMP https://t.co/r1Dyx8Ug09",01/23/2020 01:29:57,297,28,429,92,True
+1220058769465466880,BNONews,"BREAKING: Public transportation in China's Wuhan to be shut down in effort to stop the spread of coronavirus, all flights and trains leaving the city canceled",01/22/2020 19:00:52,133,3,204,33,False
+1219955159599546369,BNONews,NEW: Chinese hospitals given emergency powers to quarantine people against their will if they're at risk of having the new coronavirus - SCMP,01/22/2020 12:09:10,101,9,148,20,False
+1219693495763525632,BNONews,BREAKING: First US case of a new strain of coronavirus has been confirmed by Federal officials - NYT,01/21/2020 18:49:24,410,46,441,185,False
+1219636065486753792,BNONews,NEW: North Korea closes border to all foreign tourists to prevent an outbreak of coronavirus https://t.co/CaaS7bFHpJ https://t.co/9kEksb8OTk,01/21/2020 15:01:12,71,14,105,17,True
+1219623397186994176,BNONews,BREAKING: North Korea closing border to all foreign tourists to prevent an outbreak of coronavirus - tour group,01/21/2020 14:10:52,512,76,858,140,False
+1219282166661685249,BNONews,"14 healthcare workers have tested positive for new strain of coronavirus, doctor says, confirming human-to-human transmission - CCTV https://t.co/Gagmu5QOpb",01/20/2020 15:34:56,159,15,144,41,False
+1219276041996423168,BNONews,"BREAKING: Evidence shows new coronavirus is spreading between humans, top Chinese doctor says",01/20/2020 15:10:36,129,17,145,41,False
+1219115659466018817,BNONews,"BREAKING: South Korea confirms 1st case of new coronavirus in traveler from China, woman quarantined at airport - Yonhap https://t.co/OBxw7EmJfS",01/20/2020 04:33:17,171,17,168,26,False
+1218985016165793792,BNONews,"NEW: 3 people in Beijing and Shenzhen have also tested positive for new coronavirus, making them the 1st confirmed cases outside Wuhan - CCTV https://t.co/OBxw7EmJfS",01/19/2020 19:54:10,90,9,107,19,False
+1218979914621300738,BNONews,"BREAKING: Chinese city of Wuhan reports 136 new cases of new type of coronavirus, raising total there to 198",01/19/2020 19:33:53,262,19,281,67,False
+1217602584149622784,BNONews,"BREAKING: Japan reports 1st case of infection with new type of coronavirus, making it the 2nd case outside of China - Kyodo",01/16/2020 00:20:52,214,23,347,116,False
+1216702597035368448,BNONews,"BREAKING: Thailand confirms first case of a new strain of coronavirus that was first detected in Wuhan, China - WHO",01/13/2020 12:44:39,103,8,117,19,False

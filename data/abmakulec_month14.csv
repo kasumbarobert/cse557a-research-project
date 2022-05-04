@@ -1,0 +1,50 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1354851784850894855,abmakulec,"The @COVID19Tracking has a great write up on the challenges around the data, pointing to the many missing values (as we see in the example from Virginia) and inconsistent definitions across our fragmented state health informatics infrastructure. /4 https://t.co/cTFj1qGapC",01/28/2021 18:00:12,1,0,2,0,False
+1354851779272388616,abmakulec,"Early data on the COVID-19 vaccine rollout has caused justifiable alarm around inequitable distribution of vaccine. Plus, race/ethnicity data is only being reported in a sub-set of states, and those who are reporting have tons of missing data.
+Ex: https://t.co/BoutudCsex /1 https://t.co/qvgWncvxos https://t.co/2ugKMFt9Sf",01/28/2021 18:00:10,1,1,2,0,True
+1354533227252375553,abmakulec,Data transparency matters - I'm excited to see the new administration making COVID-19 data more accessible to the public. https://t.co/g4qbWh33cV,01/27/2021 20:54:22,0,0,4,0,False
+1354390778236309504,abmakulec,"The tech debt we have in health informatics is immense, and the public health challenges that we faced before the pandemic (HIV, opioids, infant mortality) are still there, even if they're not making headlines.
+
+Invest in public health. Thread 👇 https://t.co/jl64xPEHvL",01/27/2021 11:28:19,0,0,6,0,False
+1354077399630151680,abmakulec,"Yes, pandemic fatigue is real. 
+
+As @caitlinnowens reflected: ""If there's any obvious lesson to learn from all of this, it's that stopping a pandemic early on — before people become exhausted with the disruption to their lives — is crucial."" /3 https://t.co/UcPJvnFwh7",01/26/2021 14:43:04,0,1,2,0,False
+1354077398510284800,abmakulec,"Some of these measures will never be near 100%: 
+
+""Worked or studied at home"" isn't feasible for many essential workers, who are disproportionately impacted by COVID. We've known this for months, yet its still not consistently reflected in policy. /2 https://t.co/Ea8wWS5MmT",01/26/2021 14:43:04,0,1,1,0,False
+1354025432253935616,abmakulec,"RT @deaneckles: Please stop getting your COVID info from Feigl-Ding, who has been spreading misinfo and rumors for months. I still keep see…",01/26/2021 11:16:34,19,0,0,0,False
+1353869240567291905,abmakulec,"Let's do some vaccine math! 
+
+36 COVID vaccine doses have been administered in a community of 100 people. Four people only received the first of the two required doses; 32 doses were given to people who received two doses each.
+
+What share of the community is fully vaccinated?",01/26/2021 00:55:55,0,3,1,0,True
+1353795951056613376,abmakulec,"Think about the generations who (in theory) would be having kids right now: Millennials and Gen-Z, who have faced multiple waves of mass economic uncertainty, unemployment, and now COVID.  https://t.co/fswkzgpJOx
+
+A 'baby bust' totally makes sense. https://t.co/jBixy0G7TG",01/25/2021 20:04:41,1,0,4,0,False
+1353677637261152256,abmakulec,"For a year we've talked about the challenges of reporting US COVID-19 case data. @SarahSchacht points to the root causes that still aren't being addressed in new data plans: our fragmented, locally managed, vendor-centered info systems.
+
+Thread 👇 https://t.co/4M1orveDFA",01/25/2021 12:14:33,2,1,5,0,False
+1353181648045678593,abmakulec,"My heard skips a beat each time someone I respect, who has been advocating for a better US response to COVID-19, joins the Biden/Harris administration. Starting to feel hopeful again. https://t.co/IEoBw9aWXX",01/24/2021 03:23:40,0,1,17,0,False
+1353176037530734592,abmakulec,".@askdrfitz shares the three most common concerns she hears about the COVID-19 vaccine from Black Americans, who have been disproportionately impacted by both COVID and injustices in medicine and research, but among whom vaccine acceptance has increased. https://t.co/XEr5mOz0CY",01/24/2021 03:01:22,0,1,2,0,False
+1353016312520450054,abmakulec,"With so much focus on the COVID vaccine, it's a good time to resurface this series from the @WSJ. The graphics illustrate the immense impact vaccines have had on human health over time. 
+
+Just watch the colors fade after the line for vaccine introduction. https://t.co/g0GTC3eYSV https://t.co/oGXfnpFAQJ",01/23/2021 16:26:41,207,11,555,20,True
+1352822083961688064,abmakulec,@rypan @CovidActNow @CDCgov I remember your team having a great data documentation guide around the sources and metrics - have the details about the vaccination data been added too?,01/23/2021 03:34:53,0,1,2,0,False
+1352782599098404865,abmakulec,"Early signs *where data is available* point to inequitable administration of COVID-19 vaccine among Black and Hispanic populations in the US. But I'm also jarred that we didn't learn a lesson from case data, and start reporting data by race/ethnicity disaggretates from the start. https://t.co/xnhZwvFNJQ",01/23/2021 00:57:59,2,0,6,0,False
+1352781813815586816,abmakulec,"RT @WhitneyEpi: For anyone in health equity research who’s paying attention to #COVID19 vaccine rollout, this is obvious
+
+But still gratefu…",01/23/2021 00:54:52,22,0,0,0,False
+1352634659088297985,abmakulec,"RT @gregggonsalves: Time for my first criticism of @JoeBiden's #COVID19 plan. FEMACorps is limited to 18-26 year-olds, are 2-4 year positio…",01/22/2021 15:10:08,82,0,0,0,False
+1352631626317049857,abmakulec,"A thoughtful walk through of the design decisions and priorities (mobile first, accessibility, using text to clearly communicate instead of just charts) on a new German COVID vaccination dashboard from @moritz_stefaner &amp; team. https://t.co/luksvjPRCA",01/22/2021 14:58:05,0,0,1,0,False
+1352615668206678016,abmakulec,"In a globally connected world, we must prioritize equity in our distribution of COVID-19 vaccines.  https://t.co/1TlUPs9xf4",01/22/2021 13:54:40,0,0,1,0,False
+1352429898086932484,abmakulec,"Well, now is the moment to get just as interested in vaccination metrics! And, if nothing else, when you source vaccination data, name the variable in the same way as the original, reputable source.
+
+COVID-19 vaccine doses administered ≠ people vaccinated. /end",01/22/2021 01:36:29,0,0,5,0,False
+1352429897315135488,abmakulec,"Remember when everyone got to have a big learning moment around the complexity of COVID-19 case data?
+
+How we needed to look at cases alongside tests, hospitalizations, and deaths, and demand more disaggregated data?
+
+And learning about routine health information systems? /5",01/22/2021 01:36:29,0,1,3,0,False
+1352429887240462336,abmakulec,#dataviz readers &amp; creators: Please don't conflate doses administered of the COVID-19 vaccine with the share of the population vaccinated. The approved vaccines to date are TWO DOSE regimens. Doses ≠ people. See clear text caveats from @OurWorldInData https://t.co/o9iWU9twAO /1 https://t.co/eb5brNO93e,01/22/2021 01:36:26,3,2,17,0,True
+1352419882038685698,abmakulec,"I'm starting to feel emotional seeing what has been done in 48 hours to dramatically change our country's approach to COVID-19, and mourn the number of lives lost unnecessarily because all of these actions weren't taken sooner by the previous administration. https://t.co/uzCJZX1Gf4",01/22/2021 00:56:41,0,1,8,0,False
+1352206493341331456,abmakulec,"I am so excited to see new leadership at @CDCgov, with a focus on using evidence-led approaches to squashing COVID-19 and acknowledgement of the social determinants of health inequities. This is the leadership we've needed for the past year. https://t.co/Q8YlguIobr",01/21/2021 10:48:45,0,0,0,0,False

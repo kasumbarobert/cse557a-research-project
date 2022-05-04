@@ -1,76 +1,89 @@
-,tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
-0,1516155835231133697,CDCGov,"As of April 18, 256.8 million people have received at least one dose of a #COVID19 vaccine. Of those, 218.9 million are fully vaccinated. More than 99.5 million people have received a COVID-19 booster dose.  
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1519421154787835904,CDCGov,"As of April 25, 2022, national forecasts predict 1,500–4,300 new #COVID19 deaths will likely be reported during the week ending May 21. That would bring the projected total number of U.S. deaths to 997,000–1,003,000. More: https://t.co/rcqjOX3Ypl. https://t.co/HN2QzgC1j5",04/27/2022 21:00:07,34,42,48,11,True
+1519421150262140929,CDCGov,"As of April 25, 2022, national forecasts predict 600–7,000 new #COVID19 hospitalizations will likely be reported on May 20. More: https://t.co/Xys80ZGlxV. https://t.co/sLq8aMi3OS",04/27/2022 21:00:06,45,69,74,9,True
+1519338006309588998,CDCGov,"RT @CDCDirector: NEW: @CDCMMWR report shows an estimated 58% of the U.S. population has antibodies from a previous #COVID19 infection. 
 
-Find a COVID-19 vaccine or booster near you: https://t.co/xbvNiaVJKV. https://t.co/h7x59DfUtv",04/18/2022 20:44:54,50,56,80,6,True
-1,1516136236599160841,CDCGov,"Tribal community members, leaders, and partners: Share new videos of Wes Studi, Cherokee elder, Oscar award recipient, and health advocate, encouraging American Indian and Alaska Natives to get vaccinated to help protect their communities from #COVID19. https://t.co/2Xjim3GaiS https://t.co/BGyAaIK3lO",04/18/2022 19:27:01,48,20,148,8,True
-2,1516116355497480192,CDCGov,"Over 9 million children ages 5–11 years have received at least one dose of #COVID19 vaccine.
+Pr…",04/27/2022 15:29:43,58,0,0,0,False
+1519058740325982208,CDCGov,"#COVID19 vaccines help protect people from getting seriously ill. Staying up to date with COVID-19 vaccines is especially important if you are 65+ or have a health condition that increases your risk of getting very sick. 
+
+Learn more: https://t.co/009bOeagNG.",04/26/2022 21:00:01,73,139,133,15,False
+1519006725617164294,CDCGov,"Even after infection, staying up to date with COVID-19 vaccination, including recommended booster doses, helps protect against getting really sick and dying from #COVID19. Learn more: https://t.co/009bOerScg.",04/26/2022 17:33:19,22,67,59,3,False
+1519005907409121282,CDCGov,"New @CDCMMWR: By Feb. 2022, the U.S. population with antibodies from prior infection with virus that causes #COVID19 greatly increased during Omicron. The largest increases were among children and teens. More: https://t.co/vNiIV6I3dV. https://t.co/AjGbDNQagg",04/26/2022 17:30:04,91,201,236,32,True
+1518696377550790657,CDCGov,"As of April 25, more than 100.1 million people have received their first #COVID19 booster. Almost 257.3 million people have received at least one dose of a COVID-19 vaccine. Of those, 219.4 million are fully vaccinated.
+
+Find a COVID-19 vaccine or booster: https://t.co/xbvNiaVJKV https://t.co/4dJIroOMNa",04/25/2022 21:00:07,171,304,367,25,True
+1518613331866759171,CDCGov,"Over 9 million children ages 5–11 years have received at least one dose of #COVID19 vaccine.
+
+Your participation in v-safe helps CDC monitor the safety of COVID-19 vaccines for everyone.
+ 
+Learn more: https://t.co/S4ZmF2foa9. https://t.co/fFWJC29XuL",04/25/2022 15:30:07,46,73,94,12,True
+1517621266726989824,CDCGov,"RT @CDC_DASH: Everyday life got harder for students during the pandemic: 
+➡️2 in 3 reported difficulty completing schoolwork
+➡️1 in 4 exper…",04/22/2022 21:48:00,28,0,0,0,False
+1517609255142105089,CDCGov,Subscribe to get CDC’s COVID Data Tracker Weekly Review sent to your inbox every Friday: https://t.co/m5w5IKMJIv.,04/22/2022 21:00:16,16,9,34,1,False
+1517609207981350913,CDCGov,"Throughout the pandemic, the U.S. has experienced waves of #COVID19 caused by different variants. CDC closely tracks variant trends and their impact on public health. Learn more in this week’s COVID Data Tracker Weekly Review: https://t.co/F4bAyObDp1. https://t.co/bnWZ8M6lFC",04/22/2022 21:00:05,38,37,85,5,True
+1517594115847958531,CDCGov,"As of April 21, 2022, more than 98% of the U.S. population lives in a location with a low or medium #COVID19 Community Level. 
+
+Find your COVID-19 Community Level: https://t.co/w3365V9Zr4. https://t.co/Fmhz5RnxtP",04/22/2022 20:00:07,113,127,272,45,True
+1517571196740587526,CDCGov,"New @CDCMMWR found that for the second year, #COVID19 was third leading cause of death in US in 2021, after heart disease &amp; cancer. 
+
+Stay up to date on your COVID-19 vaccines to help prevent serious illness and death. Learn more: https://t.co/WKQpZOueVQ. https://t.co/O6gowonFmX",04/22/2022 18:29:03,102,65,140,28,True
+1517551316247134213,CDCGov,"New @CDCMMWR shows gaps between #COVID19 death rates decreased among most racial &amp; ethnic groups from 2020 to 2021.
+
+Access to COVID-19 vaccination and other interventions can help address health disparities in communities across the US even more. https://t.co/KphhaPvLWJ https://t.co/PipErVW898",04/22/2022 17:10:03,16,12,43,3,True
+1517526166340517889,CDCGov,"If you’re eligible for a #COVID19 booster and haven’t received one, make a plan to get one now.
+
+Everyone ages 12 years and older should get a booster when it’s time.
+
+Find one near you: https://t.co/2akIUZ14Rd. https://t.co/eM1aACqqxh",04/22/2022 15:30:06,69,117,119,12,True
+1517258628943781890,CDCGov,RT @CDC_DASH: New CDC data now available showing the impact of COVID-19 on high school students. The findings describe the range of issues…,04/21/2022 21:47:01,33,0,0,0,False
+1517246802533048321,CDCGov,"The latest MMWR Weekly #COVID19 Briefing is live. This episode covers 3 reports, including reports highlighting COVID-19 mortality &amp; vaccine coverage in Hong Kong, Omicron infections in people previously infected w/ Delta and more. Listen &amp; subscribe: https://t.co/I9Zs1YquaF. https://t.co/GYPBWgtJtd",04/21/2022 21:00:01,26,18,67,0,True
+1517231776917344258,CDCGov,"More than 11,700 healthcare facilities are using electronic case reporting (eCR) for #COVID19 &amp; other reportable conditions. eCR enables real-time information exchange between healthcare &amp; public health, which is critical in public health emergencies. https://t.co/fRhIsHKoNY https://t.co/0uqK9ErjrO",04/21/2022 20:00:19,23,16,59,3,True
+1517207041747689472,CDCGov,"Over 9 million children ages 5–11 years have received at least one dose of #COVID19 vaccine.
+
+Enroll in v-safe so you can quickly and easily share with CDC how your child feels after getting a COVID-19 vaccine.
+
+Learn more: https://t.co/S4ZmF2foa9. https://t.co/JW2RQIxDdm",04/21/2022 18:22:01,47,87,113,10,True
+1517172314655313920,CDCGov,"Are you up to date on your #COVID19 vaccines?
+You’re up to date on COVID-19 vaccines when you’ve received all vaccines recommended for you, including additional doses and boosters when you’re eligible.
+Learn more: https://t.co/009bOerScg. https://t.co/CgpsD6B96c",04/21/2022 16:04:02,79,85,126,11,True
+1516888302737051649,CDCGov,"RT @CDC_DASH: New CDC data shows the pandemic affected the #MentalHealth of high school students: 
+▪️2 in 5 students felt emotional distres…",04/20/2022 21:15:28,46,0,0,0,False
+1516877103190495232,CDCGov,"As of April 18, 2022, national forecasts predict 1,300–3,400 new #COVID19 deaths will likely be reported during the week ending May 14. That would bring the projected total number of U.S. deaths to 995,000–1,005,000. More: https://t.co/rcqjOX3Ypl. https://t.co/WxA1h570aW",04/20/2022 20:30:58,39,38,47,7,True
+1516877099319152641,CDCGov,"As of April 18, 2022, national forecasts predict 200–4,000 new #COVID19 hospitalizations will likely be reported on May 13. More: https://t.co/Xys80ZGlxV. https://t.co/QyL0jWsuxD",04/20/2022 20:30:57,59,68,95,10,True
+1516836594451312641,CDCGov,"Why should you stay up to date with your #COVID19 vaccines?
+
+Staying up to date with your COVID-19 vaccines lowers your risk of getting seriously ill, being hospitalized, or dying from COVID-19.
+
+Find your vaccine or booster: https://t.co/xbvNibdkCt.",04/20/2022 17:50:00,58,69,104,11,False
+1516514482507423748,CDCGov,"#DYK? Your body’s ability to fight off #COVID19 can decrease over time after vaccination. When this happens, a booster can help your body build back the immunity that has been lost.
+More: https://t.co/77CTFuJFcO. https://t.co/C5vdNf13CW",04/19/2022 20:30:02,122,147,168,19,True
+1516464152121913351,CDCGov,"#COVID19 can make some children very sick. A new MMWR report shows among children ages 5–11 years hospitalized with COVID-19 during the first few months of Omicron, 3 in 10 had no underlying conditions and 2 in 10 were admitted to the ICU. Learn more: https://t.co/IUFvr9HBt8. https://t.co/2W19KlpQSj",04/19/2022 17:10:03,348,218,517,52,True
+1516155835231133697,CDCGov,"As of April 18, 256.8 million people have received at least one dose of a #COVID19 vaccine. Of those, 218.9 million are fully vaccinated. More than 99.5 million people have received a COVID-19 booster dose.  
+
+Find a COVID-19 vaccine or booster near you: https://t.co/xbvNiaVJKV. https://t.co/h7x59DfUtv",04/18/2022 20:44:54,151,155,262,20,True
+1516136236599160841,CDCGov,"Tribal community members, leaders, and partners: Share new videos of Wes Studi, Cherokee elder, Oscar award recipient, and health advocate, encouraging American Indian and Alaska Natives to get vaccinated to help protect their communities from #COVID19. https://t.co/2Xjim3GaiS https://t.co/BGyAaIK3lO",04/18/2022 19:27:01,197,67,473,11,True
+1516116355497480192,CDCGov,"Over 9 million children ages 5–11 years have received at least one dose of #COVID19 vaccine.
 
 Your participation in v-safe helps CDC monitor the safety of COVID-19 vaccines for everyone. 
 
-Learn more: https://t.co/S4ZmF2foa9. https://t.co/VVJLMHzwXB",04/18/2022 18:08:01,27,42,65,3,True
-3,1515359397517660167,CDCGov,"If you’ve delayed or avoided medical care during the #COVID19 pandemic, it’s time to jump back in. Put “get a checkup” on your to-do list, especially if you’re at risk for heart disease. Learn more in the COVID Data Tracker Weekly Review: https://t.co/F4bAyObDp1. https://t.co/FnKB4i3oQZ",04/16/2022 16:00:09,65,43,117,18,True
-4,1515064930499706893,CDCGov,"New: CDC’s COVID Data Tracker now shows more information about levels of the virus that causes #COVID19 in a community’s wastewater. When used with other data, increasing levels can provide an early warning of COVID-19 spread in a community. See the data: https://t.co/2oUHTMGqqX. https://t.co/o2rP9ghGpi",04/15/2022 20:30:02,117,76,192,13,True
-5,1515035733672747017,CDCGov,"As of April 14, 2022, more than 99% of the U.S. population lives in a location with a low or medium #COVID19 Community Level. 
+Learn more: https://t.co/S4ZmF2foa9. https://t.co/VVJLMHzwXB",04/18/2022 18:08:01,48,61,98,9,True
+1515359397517660167,CDCGov,"If you’ve delayed or avoided medical care during the #COVID19 pandemic, it’s time to jump back in. Put “get a checkup” on your to-do list, especially if you’re at risk for heart disease. Learn more in the COVID Data Tracker Weekly Review: https://t.co/F4bAyObDp1. https://t.co/FnKB4i3oQZ",04/16/2022 16:00:09,73,47,123,23,True
+1515064930499706893,CDCGov,"New: CDC’s COVID Data Tracker now shows more information about levels of the virus that causes #COVID19 in a community’s wastewater. When used with other data, increasing levels can provide an early warning of COVID-19 spread in a community. See the data: https://t.co/2oUHTMGqqX. https://t.co/o2rP9ghGpi",04/15/2022 20:30:02,124,88,206,14,True
+1515035733672747017,CDCGov,"As of April 14, 2022, more than 99% of the U.S. population lives in a location with a low or medium #COVID19 Community Level. 
 
-Find your COVID-19 Community Level: https://t.co/w3365V9Zr4. https://t.co/8vcNoqZ1mV",04/15/2022 18:34:01,93,116,244,46,True
-6,1515012835188879361,CDCGov,Have questions about #COVID19 vaccination for children ages 5+ years? Here are 6 things parents and caregivers need to know: https://t.co/FoJ0IFtxGR. https://t.co/mJTp7t4fCs,04/15/2022 17:03:02,49,52,69,11,True
-7,1514710109972279307,CDCGov,Are you up to date with recommended #COVID19 vaccinations? Find out what it means to be up to date and how to lower your risk of hospitalization from COVID-19: https://t.co/009bOerScg. https://t.co/DWAO9mVRPd,04/14/2022 21:00:06,84,86,156,10,True
-8,1514695048524357640,CDCGov,"Learn how @HarvardChanSPH, @ASTHO, and @nphic worked to effectively communicate important #COVID19 information to people in the U.S. who speak Spanish or Chinese and have limited English proficiency: https://t.co/U6p0HuW5dt. https://t.co/00dDQD0uOw",04/14/2022 20:00:15,22,8,54,2,True
-9,1514635843960410116,CDCGov,Pediatric providers: Be prepared to discuss #COVID19 vaccination for children with parents and caregivers. Ask open-ended questions and listen empathetically to help create an open discussion. Learn more: https://t.co/46OQwqhLoz. https://t.co/SBdcwnvyOr,04/14/2022 16:05:00,38,75,95,8,True
-10,1514347741891158023,CDCGov,"As of April 11, 2022, national forecasts predict 1,200–3,500 new #COVID19 deaths will likely be reported during the week ending May 7. That would bring the projected total number of U.S. deaths to 993,000–1,001,000. More: https://t.co/rcqjOX3Ypl. https://t.co/Ip5hzTwANA",04/13/2022 21:00:11,26,29,49,5,True
-11,1514347738154127370,CDCGov,"As of April 11, 2022, national forecasts predict 100–5,500 new #COVID19 hospitalizations will likely be reported on May 6. More: https://t.co/Xys80ZGlxV. https://t.co/U06NlamWeR",04/13/2022 21:00:10,57,56,99,8,True
-12,1514340157641707520,CDCGov,.@ProjectRefocus_ works with communities to monitor and address how stigma and racism contribute to disparities in who gets #COVID19 and the care they receive. Learn more on this Health Equity in Action project: https://t.co/R8vczOGGiC. https://t.co/QrInlHd4IB,04/13/2022 20:30:03,25,36,70,5,True
-13,1514324546484150277,CDCGov,"#Parents and Caregivers: Your children ages 5+ years should get a #COVID19 vaccine. 
-If your kids haven’t received a COVID-19 vaccine, make an appointment today. Contact their healthcare provider or visit https://t.co/2akIUZ14Rd. https://t.co/FJu1MABH2V",04/13/2022 19:28:01,58,101,102,11,True
-14,1514013506047299594,CDCGov,RT @CDCEnvironment: A study by CDC and #ATSDR used place and health data to identify areas for focused #COVID19 vaccination strategies to i…,04/12/2022 22:52:03,16,0,0,0,False
-15,1513985355657187328,CDCGov,"Parents: Children with disabilities may need accommodations at #COVID19 vaccination sites. Make sure to discuss this with your provider when making the appointment so your child gets the support they need during their visit. 
+Find your COVID-19 Community Level: https://t.co/w3365V9Zr4. https://t.co/8vcNoqZ1mV",04/15/2022 18:34:01,94,118,248,47,True
+1515012835188879361,CDCGov,Have questions about #COVID19 vaccination for children ages 5+ years? Here are 6 things parents and caregivers need to know: https://t.co/FoJ0IFtxGR. https://t.co/mJTp7t4fCs,04/15/2022 17:03:02,50,52,72,11,True
+1514710109972279307,CDCGov,Are you up to date with recommended #COVID19 vaccinations? Find out what it means to be up to date and how to lower your risk of hospitalization from COVID-19: https://t.co/009bOerScg. https://t.co/DWAO9mVRPd,04/14/2022 21:00:06,89,90,159,12,True
+1514695048524357640,CDCGov,"Learn how @HarvardChanSPH, @ASTHO, and @nphic worked to effectively communicate important #COVID19 information to people in the U.S. who speak Spanish or Chinese and have limited English proficiency: https://t.co/U6p0HuW5dt. https://t.co/00dDQD0uOw",04/14/2022 20:00:15,21,9,53,2,True
+1514635843960410116,CDCGov,Pediatric providers: Be prepared to discuss #COVID19 vaccination for children with parents and caregivers. Ask open-ended questions and listen empathetically to help create an open discussion. Learn more: https://t.co/46OQwqhLoz. https://t.co/SBdcwnvyOr,04/14/2022 16:05:00,39,75,99,9,True
+1514347741891158023,CDCGov,"As of April 11, 2022, national forecasts predict 1,200–3,500 new #COVID19 deaths will likely be reported during the week ending May 7. That would bring the projected total number of U.S. deaths to 993,000–1,001,000. More: https://t.co/rcqjOX3Ypl. https://t.co/Ip5hzTwANA",04/13/2022 21:00:11,26,30,49,5,True
+1514347738154127370,CDCGov,"As of April 11, 2022, national forecasts predict 100–5,500 new #COVID19 hospitalizations will likely be reported on May 6. More: https://t.co/Xys80ZGlxV. https://t.co/U06NlamWeR",04/13/2022 21:00:10,56,59,98,10,True
+1514340157641707520,CDCGov,.@ProjectRefocus_ works with communities to monitor and address how stigma and racism contribute to disparities in who gets #COVID19 and the care they receive. Learn more on this Health Equity in Action project: https://t.co/R8vczOGGiC. https://t.co/QrInlHd4IB,04/13/2022 20:30:03,24,37,67,5,True
+1514324546484150277,CDCGov,"#Parents and Caregivers: Your children ages 5+ years should get a #COVID19 vaccine. 
+If your kids haven’t received a COVID-19 vaccine, make an appointment today. Contact their healthcare provider or visit https://t.co/2akIUZ14Rd. https://t.co/FJu1MABH2V",04/13/2022 19:28:01,58,101,104,12,True
+1514013506047299594,CDCGov,RT @CDCEnvironment: A study by CDC and #ATSDR used place and health data to identify areas for focused #COVID19 vaccination strategies to i…,04/12/2022 22:52:03,15,0,0,0,False
+1513985355657187328,CDCGov,"Parents: Children with disabilities may need accommodations at #COVID19 vaccination sites. Make sure to discuss this with your provider when making the appointment so your child gets the support they need during their visit. 
 
-Learn more: https://t.co/348AOulKr0. https://t.co/uZXlFeziY2",04/12/2022 21:00:11,55,38,100,2,True
-16,1513927441093435394,CDCGov,"Even if you’ve already had #COVID19, mRNA vaccines (Pfizer-BioNTech or Moderna) help keep you out of the hospital if you get COVID-19 again, with a booster giving the most protection, new @CDCMMWR finds. Stay up to date on your COVID-19 vaccines. More: https://t.co/jK4UHl97mR. https://t.co/DRk9biBeg6",04/12/2022 17:10:04,131,128,233,8,True
-17,1513615386121543681,CDCGov,"As of April 11, 256.3 million people have received at least one dose of a #COVID19 vaccine. Of those, 218.4 million are fully vaccinated. More than 98.8 million people have received a COVID-19 booster dose.
-
-Find a COVID-19 vaccine or booster near you: https://t.co/xbvNiaVJKV. https://t.co/DXGaqkn75h",04/11/2022 20:30:04,145,151,278,33,True
-18,1512822685616816128,CDCGov,Vaccinating children is the single best way to protect them from getting very sick with #COVID19. Learn more in the COVID Data Tracker Weekly Review: https://t.co/F4bAyObDp1. https://t.co/pnDK0TczTL,04/09/2022 16:00:09,88,178,176,15,True
-19,1512520686539005955,CDCGov,"As of April 7, 2022, more than 99% of the U.S. population lives in a location with a low or medium #COVID19 Community Level.
-
-Find your COVID-19 Community Level: https://t.co/w3365V9Zr4. https://t.co/qG8hmNexpY",04/08/2022 20:00:07,100,365,298,171,True
-20,1512492587533352979,CDCGov,"New @CDCMMWR on a #COVID19 outbreak in Hong Kong found 7 in 10 deaths occurred among adults ages 60+ who were unvaccinated. People in this age group who were unvaccinated had 20x higher risk dying than those who got 2 or more COVID-19 vaccine doses. @WHO
-https://t.co/Zl7zGi96SP https://t.co/EIOXsQJa95",04/08/2022 18:08:28,68,42,107,8,True
-21,1512476369938173965,CDCGov,"Parents: Have your children ages 5 years and older been vaccinated against #COVID19?
-If not, check that off your to-do list today. Talk to your child’s doctor or find a vaccine at https://t.co/2akIUZ14Rd. https://t.co/hnB4McAWgT",04/08/2022 17:04:01,110,152,214,12,True
-22,1512445158482223109,CDCGov,Pregnant? Stay up to date with your #COVID19 vaccines. Data show that completing an mRNA COVID-19 vaccine series (Pfizer-BioNTech or Moderna) while pregnant can help protect your baby from hospitalization. Get vaccinated against COVID-19. Read more: https://t.co/pBVlI6STf8.,04/08/2022 15:00:00,51,71,80,2,False
-23,1512150969701715969,CDCGov,"Kids who are up to date on #COVID19 vaccinations are less likely to get very sick from COVID-19. For best protection, get your kids vaccinated to help keep them doing their favorite activities and out of the hospital.
-Find a vaccine today: https://t.co/2akIUZiFIL. https://t.co/4d2cHKt6CG",04/07/2022 19:31:00,109,116,223,14,True
-24,1512115843659874307,CDCGov,Most reinfection cases happened among people who were not up to date on #COVID19 vaccinations. All eligible people should stay up to date on their vaccines for increased protection and should consider retesting if exposed to COVID-19 or have symptoms. https://t.co/UnOVDIkFo6.,04/07/2022 17:11:25,38,39,58,3,False
-25,1512115499492155408,CDCGov,"New @CDCMMWR study found some people can be reinfected with #COVID19 shortly after initial infection. To best protect against reinfection, everyone ages 5+ years should stay up to date on their COVID-19 vaccines. Learn more: https://t.co/8ErtcC9koH. https://t.co/ULp54mXRq7",04/07/2022 17:10:03,95,111,152,14,True
-26,1512082782968713221,CDCGov,"Most people who get very sick w/ #COVID19 during pregnancy aren’t vaccinated. mRNA COVID-19 vaccines (Pfizer-BioNTech &amp; Moderna) lower risk of infection &amp; severe illness. If you’re pregnant or trying to be, stay up to date on your COVID-19 vaccines. More: https://t.co/pBVlI7au6G.",04/07/2022 15:00:03,41,45,70,2,False
-27,1511803573520285700,CDCGov,"As of April 4, 2022, national forecasts predict 1,200–4,000 new #COVID19 deaths will likely be reported during the week ending April 30. That would bring the projected total number of U.S. deaths to 990,000–999,000. More: https://t.co/rcqjOX3Ypl. https://t.co/VdlEBBFa1s",04/06/2022 20:30:34,26,30,40,1,True
-28,1511803569070133257,CDCGov,"As of April 4, 2022, national forecasts predict 400–4,300 new #COVID19 hospitalizations will likely be reported on April 29. More: https://t.co/Xys80ZGlxV. https://t.co/V5AFTamRDw",04/06/2022 20:30:33,47,43,87,5,True
-29,1511773985733853188,CDCGov,"Need a #COVID19 test? This flowchart can help you know if and when to test.
-
-Free COVID-19 tests are available through local health departments, pharmacies, and community centers.
-
-To find free testing locations in your area, visit: https://t.co/sVVD3eFQKN.",04/06/2022 18:33:00,84,46,104,8,False
-30,1511754372207808516,CDCGov,Parents: Side effects after your child gets a #COVID19 vaccine are normal &amp; may last a few days. Get your kids ages 5+ years vaccinated to give them the best protection against COVID-19. Learn more: https://t.co/XiRwO5RopB. https://t.co/H8wxy4JXgn,04/06/2022 17:15:04,163,286,365,36,True
-31,1511746827128823819,CDCGov,Pharmacists: CDC offers free print resources to help customers perform #COVID19 self-testing. Download the “Using Your Self-Test” infographic (also available in Spanish) and display at the counter: https://t.co/wQhg86hGOt. https://t.co/FCr0MWKcrb,04/06/2022 16:45:05,38,22,77,3,True
-32,1511448621648166919,CDCGov,"Parents and caregivers: Help keep your kids in school by getting your children ages 5+ years vaccinated against #COVID19.
-Find a COVID-19 vaccine near you and #SleeveUp your family for school: https://t.co/2akIUZ14Rd. https://t.co/X7oVjYMVZt",04/05/2022 21:00:07,94,142,164,7,True
-33,1511396755941871617,CDCGov,Help keep schools safe. Learn how you can tell who is a #COVID19 close contact at school: https://t.co/MnCRSUVIN1. https://t.co/leyDB59mQC,04/05/2022 17:34:01,50,37,86,3,True
-34,1511086234625585162,CDCGov,"As of April 4, 255.8 million people have received at least one dose of a #COVID19 vaccine. Of those, 217.9 million are fully vaccinated. More than 98.1 million people have received a COVID-19 booster dose.  
-
-Find a COVID-19 vaccine or booster near you: https://t.co/xbvNiaVJKV. https://t.co/Db6QBHaurV",04/04/2022 21:00:07,127,69,252,16,True
-35,1511048203486973956,CDCGov,"Vaccines have been saving lives &amp; preventing illness &amp; disability from devastating diseases for over a century.
-
-Today, #COVID19 vaccines are helping protect people against severe illness, hospitalization, &amp; death from COVID-19.
-
-More on COVID-19 vaccines: https://t.co/yJFqxDZW8J",04/04/2022 18:29:00,79,56,153,22,False
-36,1511026319320129538,CDCGov,"Having obesity increases the risk of severe illness from #COVID19, and people who are overweight may also be at increased risk. @CPSTF has recommendations for interventions to prevent and control obesity and overweight: https://t.co/qIyJQrS5Zb. https://t.co/9Qqr3VBnPU",04/04/2022 17:02:02,56,44,141,13,True
-37,1511003179537899520,CDCGov,"CDC’s Surveillance for Emerging Threats to Mothers &amp; Babies Network (SET-NET) is working to understand the impact of infections, including COVID-19, during pregnancy so we can improve the health of pregnant people &amp; their babies. Learn more about SET-NET: https://t.co/x3E6ISKcWA. https://t.co/jfpqREyeUZ",04/04/2022 15:30:05,32,26,90,5,True
-38,1510995692789063683,CDCGov,"This week, CDC joins APHA @PublicHealth to celebrate #NPHW. As the nation’s public health agency, we thank public health workers for their hard work to protect the health and safety of communities and slow the spread of #COVID19. #ThankYouPublicHealth
-https://t.co/kTeqwDjFxj https://t.co/JVch9Y9G6X",04/04/2022 15:00:20,127,33,195,23,True
-39,1510684054051426308,CDCGov,Regular school-based testing is still a critical part of a school’s COVID-19  prevention program. Learn more about why you should sign your child up today: https://t.co/ahJgEqM8Ik. https://t.co/F5WVh7muuE,04/03/2022 18:22:00,61,66,127,4,True
-40,1509999108827791361,CDCGov,CDC’s COVID Data Tracker’s Vaccination Trends tab now shows #COVID19 vaccination coverage over time and by location. See the data: https://t.co/D9ZoPyIQov. https://t.co/4zCfiJvqsB,04/01/2022 21:00:16,53,59,121,3,True
-41,1509957525747154947,CDCGov,"As of March 31, 2022, more than 99% of the U.S. population lives in a location with a low or medium #COVID19 Community Level. 
-
-Find your COVID-19 Community Level: https://t.co/w3365V9Zr4. https://t.co/WWjwBZvZWQ",04/01/2022 18:15:02,106,115,278,48,True
-42,1509940371714883590,CDCGov,"New in @CDCMMWR: The risk of heart complications was higher after having #COVID19 than after getting 1 or more mRNA COVID-19 vaccines, among males and females of all ages. Everyone ages 5 yrs &amp; older should stay up to date with their COVID-19 vaccinations. https://t.co/Jz0kvo4e96 https://t.co/4DlEW298gD",04/01/2022 17:06:52,223,303,385,87,True
+Learn more: https://t.co/348AOulKr0. https://t.co/uZXlFeziY2",04/12/2022 21:00:11,55,39,102,3,True
+1513927441093435394,CDCGov,"Even if you’ve already had #COVID19, mRNA vaccines (Pfizer-BioNTech or Moderna) help keep you out of the hospital if you get COVID-19 again, with a booster giving the most protection, new @CDCMMWR finds. Stay up to date on your COVID-19 vaccines. More: https://t.co/jK4UHl97mR. https://t.co/DRk9biBeg6",04/12/2022 17:10:04,131,128,237,8,True

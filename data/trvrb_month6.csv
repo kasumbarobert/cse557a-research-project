@@ -1,0 +1,23 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1265063921880150016,trvrb,"On Feb 29, using the genetic sequence of the first community case of #COVID19 in Washington State, I made the claim that the Washington State outbreak descended directly from the Jan 15 arrival of the WA1 case with direct travel history to Wuhan. 1/18
+https://t.co/8wWxtiotE3",05/25/2020 23:35:17,943,86,3100,270,False
+1261816514534977537,trvrb,I wanted to take a moment to acknowledge the amazing team that have been responsible for @nextstrain and its work during the #COVID19 crisis. 1/11,05/17/2020 00:31:15,169,33,1362,19,False
+1261471045862608896,trvrb,"@bonfamlio That was 0.03% of specimens from acute respiratory infections being COVID+ is consistent with our observation of 0 out of 3600 positive specimens (though note that 0.00% is also consistent). Not population prevalence, but prevalence in symptomatic individuals.",05/16/2020 01:38:28,0,1,2,0,False
+1261468733572145153,trvrb,@JkMcBee That’s a hypothesis for the origin of (some) false positives. A recent seasonal coronavirus infection could (maybe) create antibodies that cross-react enough to masquerade as COVID in the assay. I haven’t seen this formally assessed anywhere however.,05/16/2020 01:29:17,2,1,22,0,False
+1261459562181214211,trvrb,"@lindarobarge4 If the 4 of you got an antibody test this would help resolve. Assuming you didn’t have COVID-like illness in the intervening months, 4 positives on an antibody test would be very different in terms of the math here than a single positive as outlined above.",05/16/2020 00:52:51,5,1,82,0,False
+1261376824770097152,trvrb,"Thus, it's possible that Jean had COVID in December, but it's much more likely to have been an asymptomatic infection in the intervening months. 7/7",05/15/2020 19:24:04,50,26,487,3,False
+1261376824048672768,trvrb,"Given these probabilities, we can compare hypotheses under equal priors. We get a 9% probability of scenario 1 (false positive in serological assay), 89% probability of scenario 2 (asymptomatic COVID-19 infection) and 2% probability of scenario 3 (COVID-19 infection in Dec). 6/7",05/15/2020 19:24:04,36,10,287,5,False
+1261376823117484032,trvrb,"In the third case, we know from @seattleflustudy work that 0 out of 3600 acute respiratory specimens from Seattle area collected in January were COVID-19 positive. A Bayesian estimator for mean prevalence would be 0.03%. 5/7
+https://t.co/3NU0GG0SEp",05/15/2020 19:24:04,23,3,143,1,False
+1261376822295408640,trvrb,"In the second case, we believe that the total attack rate by May 1 in Washington State was ~2% (https://t.co/O00Us6ELPl). If we assume that roughly 50% of infections are asymptomatic, this gives a 2% x 50% = ~1% chance of asymptomatic COVID-19 infection. 4/7",05/15/2020 19:24:04,18,7,122,1,False
+1261376821464928256,trvrb,"In the first case, we know that the Abbott serological assay used by @UWVirology has a reported specificity of 99.9% (https://t.co/H72gxxWa8i). Thus, if prevalence of COVID is ~0% in Dec, we would have a 0.1% chance of a false positive. 3/7",05/15/2020 19:24:04,22,7,141,1,False
+1261376820718432256,trvrb,"There are three possibilities:
+Scenario 1. False positive in the serological assay.
+Scenario 2. A non-COVID infection in December, followed by an asymptomatic COVID-19 infection between Feb and April.
+Scenario 3. A bona fide COVID-19 infection in December.
+2/7",05/15/2020 19:24:03,37,4,234,5,False
+1261376819607080961,trvrb,"A resident of rural Snohomish County, ""Jean"" had COVID-like symptoms in late Dec 2019 and has subsequently tested positive in a serological assay. This may have been COVID-19 infection, but it's not certain (or even likely). 1/7
+https://t.co/7GlZyAmwsu",05/15/2020 19:24:03,382,50,933,87,False
+1261088262396899329,trvrb,@CovidCT @MaryPetrone10 @awyllie13 @IsabelOtt @VogelsChantal @tdalpert @JosephFauver @28Cole @AndersonBrito_ @ChaneyKalinich @PeterNeugebau12 @NathanGrubaugh @YaleSPH @YaleEMD Such nice work here.,05/15/2020 00:17:26,0,1,9,0,False
+1260772512419307521,trvrb,@TheRealDrOLab @nextstrain @GISAID @sangerinstitute @wellcomegenome @CovidGenomicsUK @institutpasteur We can bring back. It was feeling like too much text in the page footer and filter by authors should accomplish the same while taking up less real estate.,05/14/2020 03:22:45,0,0,0,0,False
+1260391427227316224,trvrb,@fengyang97 @AphasiaAnomic @CoronavirusTor1 This is an astute point.,05/13/2020 02:08:27,0,3,3,0,False

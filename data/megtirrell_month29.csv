@@ -1,0 +1,58 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1519020604304855040,megtirrell,RT @CNBC: Covid cases are rising in the U.S. as the omicron sub-variant grows. @megtirrell reports on the CDC’s latest data on Covid-19 inf…,04/26/2022 18:28:28,21,0,0,0,False
+1518990606420357120,megtirrell,"Vice President Kamala Harris tests positive for Covid, is not exhibiting symptoms https://t.co/0zzzUuB7aw",04/26/2022 16:29:16,5,9,13,2,False
+1518677680950063104,megtirrell,"RT @PaulSaxMD: Some additional thoughts about relapsing Covid19 after treatment with Paxlovid. 
+
+Bottom line -- *lots* of unknowns, startin…",04/25/2022 19:45:49,126,0,0,0,False
+1518659506112192513,megtirrell,"CDC: ""There has been increasing use of systemic corticosteroids and antibiotics to treat outpatients with COVID-19. However, these drugs can cause harm and provide no demonstrated benefit in patients with COVID-19 with no supplemental oxygen requirement or bacterial coinfection.""",04/25/2022 18:33:36,6,4,20,1,False
+1518659504212172803,megtirrell,"CDC issues health advisory for providers to treat #covid19 outpatients with now ""widely available"" antivirals, and not steroids or antibiotics: https://t.co/FAbLCVAv2Z",04/25/2022 18:33:35,16,3,36,1,False
+1518654115882180608,megtirrell,FDA approves first #covid19 treatment for kids under 12: the IV antiviral remdesivir now cleared for babies starting at 28 days old (and at least 7 pounds) who are hospitalized or at high risk: https://t.co/QIZeBdSESP,04/25/2022 18:12:11,68,29,216,10,False
+1518644497122537472,megtirrell,".@WhipClyburn, chairman of select subcommittee on coronavirus crisis, writes letter to FDA commissioner @DrCaliff_FDA requesting a staff briefing by May 9 on status of #covid19 vaccines for young children: https://t.co/4oBUF0hX9H",04/25/2022 17:33:57,142,75,560,56,False
+1518329505181585408,megtirrell,"Former FDA Commissioner and Pfizer director @ScottGottliebMD on under 5 #covid19 vaccine: “If the Moderna application is ready and the Pfizer application is not, I think the FDA would and should consider it separately.” https://t.co/l51R65ety3",04/24/2022 20:42:17,22,14,96,5,False
+1517579515576434691,megtirrell,"RT @ScottGottliebMD: If COVID rising again in Gauteng, South Africa; it’s likely driven in part by emergence of B4, B5 omicron variants
+
+Ex…",04/22/2022 19:02:06,74,0,0,0,False
+1517539766430060545,megtirrell,"RT @dgurdasani1: Update on where we are with COVID in the UK:
+-infection rates dropping, but remain very high 
+-hospitalisations dropping,…",04/22/2022 16:24:09,763,0,0,0,False
+1517516746328092673,megtirrell,"Test to Treat may be having a significant impact, per analysis today from Evercore ISI. They estimate Paxlovid was being used in less than 1% of #Covid19 cases in the US during Jan/Feb, and now has moved up to just less than 10% (or greater, depending on how analysis is done) https://t.co/1GfnOlKK2Z",04/22/2022 14:52:41,28,7,52,4,True
+1517504768381444096,megtirrell,RT @PHLPublicHealth: EFFECTIVE IMMEDIATELY: Due to a recent leveling-off of case counts and a decrease in COVID-19 hospitalizations in the…,04/22/2022 14:05:05,72,0,0,0,False
+1517126768355954688,megtirrell,"Politico has sourcing on potential timeline for review of young kids #covid19 vaccine, suggesting authorities may prefer to review Moderna &amp; Pfizer together, which could push authorization of both to June: https://t.co/xEQtNHsLM2 https://t.co/YnqGIwShTR",04/21/2022 13:03:03,18,20,32,26,False
+1516905582866821120,megtirrell,Moderna says it plans to submit EUA application for #covid19 vaccine for kids 6mo-5yr by the end of the month https://t.co/mwnOwzm1p7,04/20/2022 22:24:08,372,74,1414,110,False
+1516860746637926401,megtirrell,FDA on Novavax #covid19 vaccine review: “This is an incredibly complex review process that involves review of not just clinical data but also manufacturing data that will be needed to make a determination about emergency use authorization… (3),04/20/2022 19:25:58,15,37,40,8,False
+1516860739784515593,megtirrell,"FDA’s Dr Doran Fink addresses #covid19 vaccines for kids under 5 as well as protein vaccines (ie Novavax):
+
+On kids vaccine, notes once FDA has an EUA submission, it “will work diligently to independently verify the analyses and to bring those data to our advisory committee” (1)",04/20/2022 19:25:56,9,8,60,4,False
+1516854209987194888,megtirrell,Public comment period in CDC ACIP mtg so far is dominated by parents of kids under 5 begging health authorities to expedite review of #covid19 vaccines for them,04/20/2022 19:00:00,10,5,74,3,False
+1516853811297538054,megtirrell,"@alex_lanstein These are suggestions for people who are currently eligible for the 2nd #covid19 booster under the EUA: only those 50+, or 12+ and immunocompromised",04/20/2022 18:58:25,0,0,3,0,False
+1516849318774427650,megtirrell,"I deleted previous tweet in this thread bc it was confusing folks - corrected here! Who among those eligible under current EUA may consider getting a 2nd #covid19 booster, per CDC? https://t.co/lOCXktcell",04/20/2022 18:40:33,1,7,12,3,True
+1516848362926092289,megtirrell,"@lydiemilktea @nataliexdean Correct, sorry my tweet (and apparently the CDC slide!) was unclear - this is just among people eligible under the current EUA for a 2nd #covid19 booster (50+, 12+ immunocompromised)",04/20/2022 18:36:46,0,0,1,0,False
+1516837293088296961,megtirrell,"Who might wait on a 2nd #covid19 booster?
+
+CDC: 
+-people w recent infection (past 3 mos)
+-those who may be hesitant about whether to get another booster, as another may be more important in fall and/or if variant-specific vaccine needed https://t.co/3IvybDAes3",04/20/2022 17:52:46,5,8,21,1,True
+1516831136592367616,megtirrell,"CDC provides figures on second #covid19 booster doses at ACIP mtg:
+
+-1.1M in adults 50-64
+-3.2M in adults 65+
+
+(As of April 19)",04/20/2022 17:28:18,25,10,58,0,False
+1516569464254472196,megtirrell,RT @thenewsoncnbc: .@CDCgov is launching a new forecasting center to prepare the nation for COVID outbreaks and future pandemics. Health of…,04/20/2022 00:08:31,15,0,0,0,False
+1516417652389994505,megtirrell,"BA.2.12.1 gaining ground in the US, per @CDCgov, now up to 19% of total new #covid19 cases sequenced, compared with BA.2’s 74% (h/t @LeanneBMiller for pointing out): https://t.co/sus8hN9Y0s https://t.co/lSE1oFAsnp",04/19/2022 14:05:16,4,7,18,0,True
+1516409787587731461,megtirrell,".@AshishKJha46 says this AM, he checked weather report to decide whether to wear coat, bring umbrella. ""There was no disagreement about whether it was 41 degrees and a pretty high degree of agreement that it wasn't going to rain..."" vs data for #covid19... (2)",04/19/2022 13:34:01,0,1,7,0,False
+1516366907447853057,megtirrell,"J&amp;J posts mixed Q1 results, suspends #covid19 vaccine sales guidance bc of global supply surplus &amp; demand uncertainty. CFO Joe Wolk joins us next on @SquawkCNBC. Tune in!",04/19/2022 10:43:38,1,4,5,1,False
+1516205396058333188,megtirrell,Pfizer says it expects results from its prevention trial of Paxlovid in the coming weeks. Meanwhile Dr Fauci &amp; @PaulSaxMD weigh in on the potential of Paxlovid to prevent long #Covid19: https://t.co/xaKzOKneB0,04/19/2022 00:01:50,13,9,27,2,False
+1516051226919587843,megtirrell,"RT @owermohle: When a record-breaking heat wave hit Seattle last summer, it felt like the first few days of the pandemic all over again. On…",04/18/2022 13:49:14,15,0,0,0,False
+1514709978657046541,megtirrell,"FDA says it authorizes first #covid19 diagnostic test using breath samples, with results in less than three minutes: https://t.co/egpvPa96J1 https://t.co/f7u0rVSzed",04/14/2022 20:59:35,88,8,216,18,True
+1514680030953156624,megtirrell,"RT @adamfeuerstein: This week on the pod: An extended 🔥 conversation with @DrLeanaWen — her views on living with the ""new normal"" of #covid…",04/14/2022 19:00:35,3,0,0,0,False
+1514626279789809671,megtirrell,"RT @HelenBranswell: The @MHRAgovuk — the UK's equivalent of @US_FDA — has authorized a 6th (!!) #Covid vaccine, an inactivated whole-virus…",04/14/2022 15:27:00,22,0,0,0,False
+1513614197724225544,megtirrell,"RT @Alexander_Tin: At lecture today, Dr. Anthony Fauci acknowledged @pfizer's Paxlovid has gone ""underutilized"" for COVID-19 cases in the U…",04/11/2022 20:25:20,20,0,0,0,False
+1512469606136532994,megtirrell,"RT @Bob_Wachter: While only 5 Covid pts @UCSFHospitals, signs of an uptick now unmistakable. (Partly why I don't love hospital # as the sol…",04/08/2022 16:37:09,331,0,0,0,False
+1512214644097794056,megtirrell,RT @thenewsoncnbc: The race is on to solve one of Covid’s greatest mysteries: why some people just can’t catch the virus even after many ex…,04/07/2022 23:44:01,42,0,0,0,False
+1512139063301750789,megtirrell,"RT @dgurdasani1: Long COVID data just out from the ONS TL;DR
+-1.7 million people now living with long COVID (28 day definition) - that's 1…",04/07/2022 18:43:41,3471,0,0,0,False
+1511862335731871744,megtirrell,RT @thenewsoncnbc: Is it possible to be COVID boosted too many times? Today a key panel of FDA advisers met to hash out the future of COVID…,04/07/2022 00:24:04,11,0,0,0,False
+1511798468859334662,megtirrell,"At FDA vaccine meeting, Peter Marks acknowledges we're using a ""poor person's correlate of protection"" in antibody levels since one hasn't been established for #covid19 the way it has for flu. Notes T cell response could help but ""it hasn't all been integrated yet.""",04/06/2022 20:10:17,14,15,53,3,False
+1511729203162583044,megtirrell,"European regulators conclude it’s too early to consider 4th #covid19 dose in general population, but agree one can be given to people age 80+: https://t.co/hB7GGYcSVl",04/06/2022 15:35:03,20,8,41,1,True
+1511695667927949316,megtirrell,"FDA’s Peter Marks says it was important to allow option to restore protection to vulnerable groups now while #covid19 is circulating, and this mtg is for much larger questions: boosts for broader population, when to update strains, what to do in the fall (2)",04/06/2022 13:21:47,4,8,22,3,False

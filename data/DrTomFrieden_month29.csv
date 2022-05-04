@@ -1,32 +1,75 @@
 tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
-1516488772849848320,DrTomFrieden,"Covid can make some kids very sick, even if they don't have underlying health conditions. It's important for kids to get vaccinated. https://t.co/FJp5YgSxwN https://t.co/ZllRW0eUz9",04/19/2022 18:47:53,18,3,44,1,True
-1516488613315317765,DrTomFrieden,"Among nearly 400 kids aged 5-11 who were hospitalized from Covid during the first few months of Omicron, about 9 in 10 were unvaccinated, according to a new CDC report.",04/19/2022 18:47:15,49,17,109,4,False
+1519372805250314240,DrTomFrieden,Clear recommendations for health care providers on Covid treatment from NIH. https://t.co/vLUjlSNCCd https://t.co/JHmMmhOUT8,04/27/2022 17:48:00,30,13,74,1,True
+1519350426440658945,DrTomFrieden,Why can’t we get people the anti-Covid meds they need when they need them? Another human and economic cost of not rebooting public health and making primary health care robust in the US. https://t.co/LJ8GRP4rI6,04/27/2022 16:19:04,50,13,139,2,False
+1519014114978189314,DrTomFrieden,"About half of US Covid deaths in 2020 were preventable through better public health action, more than half of deaths in 2021 were preventable through improved vaccination. https://t.co/xT7VhKOCQn",04/26/2022 18:02:41,128,58,506,8,False
+1519014062616576000,DrTomFrieden,"When I said more than two years ago that Covid could kill 1 million Americans, the possibility seemed hard to imagine. It didn't have to be this bad. We can learn from the lessons of this pandemic to prevent the next one.",04/26/2022 18:02:29,1213,513,6260,90,False
+1518990208632459267,DrTomFrieden,Paxlovid should be much more widely used. Good to see new plans from the White House to increase access to Covid treatment. https://t.co/jkn5aRIVwF,04/26/2022 16:27:41,153,35,393,10,False
+1518929360748695552,DrTomFrieden,"""There are more things in heaven and earth than are dreamt of in your philosophy"" 
+It's not only Covid with a wide variation, from asymptomatic to lethal...TB also behaves this way. 
+https://t.co/fdkFMxPwKh",04/26/2022 12:25:54,12,1,39,0,False
+1518718855270440961,DrTomFrieden,"As reported Covid deaths in the US near 1 million, processing the sheer amount of loss we've experienced during the pandemic is challenging but necessary. We can't let a health crisis on this scale happen again. https://t.co/PblpLMnbnI",04/25/2022 22:29:26,31,12,85,5,False
+1518657224645566467,DrTomFrieden,"Mandate or not, masks remain an important tool to prevent the spread of Covid—especially if you're immunosuppressed, older or medically vulnerable, or live with someone who is. https://t.co/ID2mI1fDU3",04/25/2022 18:24:32,107,29,378,9,False
+1518382877678915584,DrTomFrieden,RT @fibke: Two years ago we predicted the share of developing countries in COVID-19 mortality would rise from 16% to 70%. We're now at 62%.…,04/25/2022 00:14:22,41,0,0,0,False
+1518373797266657280,DrTomFrieden,"We rely on public health to protect us from all kinds of health threats, from drunk driving, to unsanitary food at restaurants, contaminated medicine and infectious diseases such as Covid. Public health must have the ability to act to keep people safe. https://t.co/3SdntuTwyA",04/24/2022 23:38:17,118,24,406,6,False
+1518297481867628551,DrTomFrieden,"Wearing a mask is a small price to pay for the large reduction in the risk you’ll become infected, contract long Covid, possibly get seriously ill, or make someone else seriously ill.",04/24/2022 18:35:02,2875,771,13460,155,False
+1517649137491095553,DrTomFrieden,"We must bolster public health, not undermine its budgetary stability and legal authority. Covid didn’t have to kill most of the people in the US and globally who died from it. If we heed the lessons of this pandemic, we can have safer, healthier, more stable societies. 23/end",04/22/2022 23:38:45,248,65,1679,5,False
+1517649130520125441,DrTomFrieden,"Even if we personally don’t feel at risk from Covid, people around us might be. We have a responsibility to protect those among us who are most vulnerable by taking reasonable precautions, including masking up in higher-risk environments or when community spread is high. 20/",04/22/2022 23:38:43,343,25,1517,12,False
+1517649122051821570,DrTomFrieden,We need to speed up therapeutic trials for long Covid patients—a lot of people are suffering. ACT UP showed us that we can and must move science fast. https://t.co/cM3lTcGNo1 17/,04/22/2022 23:38:41,224,11,1240,5,False
+1517649119816273920,DrTomFrieden,And long Covid is a serious risk that we can’t dismiss or take lightly. A new meta-analysis reported that HALF of people infected with Covid have symptoms at least four months later. https://t.co/fPVRwuaPiy 16/,04/22/2022 23:38:41,543,87,1621,55,False
+1517649113063432192,DrTomFrieden,"New data from CDC show Covid was the third leading cause of death in 2021. About half of US Covid deaths in 2020 were preventable through better public health action, and more than half of 2021 deaths were preventable through improved vaccination. https://t.co/55O5RW9g5I 13/",04/22/2022 23:38:39,253,10,900,9,False
+1517649110622347264,DrTomFrieden,"It’s challenging to explain, but the fact is that a higher proportion of the people hospitalized today who test positive for Covid are in the hospital for other reasons than was the case two years ago, when we didn’t have any immunity, and the strain was deadlier. 12/",04/22/2022 23:38:39,82,12,660,0,False
+1517649107501780993,DrTomFrieden,"Today, there are probably fewer people hospitalized in US from Covid than hospitalized for flu during an average flu year. BUT hospitalizations have started to rise and have nearly doubled in some places in past 6 weeks, though are still a small fraction of recent peaks. 11/",04/22/2022 23:38:38,95,10,767,0,False
+1517649105111056384,DrTomFrieden,"For most of the pandemic, it was clear that Covid was significantly deadlier than flu. https://t.co/RYlxifCqR8 10/",04/22/2022 23:38:37,159,3,913,4,False
+1517649103039045632,DrTomFrieden,"First, let’s be clear: We vastly UNDER-react to flu. Flu kills tens of thousands of people a year, sends hundreds of thousands to the hospital and results in a big hit to our economy, schools &amp; productivity. So comparing Covid to flu isn’t like comparing Covid to, say, a cold. 9/",04/22/2022 23:38:37,219,14,1421,7,False
+1517649100916740097,DrTomFrieden,Let’s spend a moment on the charged issue of flu vs. Covid. It’s worth using comparisons with flu as a guide to understand how much Covid has changed. 8/,04/22/2022 23:38:36,89,2,710,2,False
+1517649098765074433,DrTomFrieden,"If you’re healthy and up-to-date with your vaccination, that’s a reasonable approach. Covid poses a relatively low risk of severe illness to you, especially compared with other daily risks we willingly accept. 7/",04/22/2022 23:38:36,102,36,909,11,False
+1517649096571383808,DrTomFrieden,"Even though many at-home Covid test results aren’t being reported, actual case rates now are without doubt a lot lower than they were a few months ago, and many people feel more comfortable traveling, gathering indoors and shedding their masks. 6/",04/22/2022 23:38:35,91,16,853,5,False
+1517649092410630145,DrTomFrieden,"Now, more than 90% of Americans likely have some level of immunity to Covid—from vaccinations, prior infection, or both. Although far too many aren't up-to-date with their vaccination, we still have substantial protection. 4/",04/22/2022 23:38:34,120,16,1025,4,False
+1517649090347077633,DrTomFrieden,"Two years ago, Covid hospitalized &amp; killed a higher proportion of people it infected. Nearly all people who tested positive in hospitals were there because the virus was making them sick—after all, there was NO immunity to it, and, also, the virus was more lethal than Omicron. 3/",04/22/2022 23:38:34,118,12,1075,0,False
+1517649085364273152,DrTomFrieden,"As masks come down and cases go up, it’s worth revisiting how deadly Covid is at this moment in the pandemic. 1/thread",04/22/2022 23:38:33,2730,311,9644,183,False
+1517539769290481664,DrTomFrieden,"Bottom line? About half of US Covid deaths in 2020 preventable through better public health action, more than half 2021 deaths preventable through improved vaccination. It didn't have to be this bad. We must act now to prevent the next pandemic from killing millions preventably.",04/22/2022 16:24:10,76,19,281,5,False
+1517499104368070658,DrTomFrieden,"Vaccination greatly reduces your risk of severe Covid, but many older and immunocompromised people continue to face an elevated risk and many others are concerned about the possibility of long Covid. That's why other tools remain important—including masks, tests and treatment.",04/22/2022 13:42:34,787,173,2765,43,False
+1517149210633596928,DrTomFrieden,A Covid infection can cause lasting health problems that we don't yet know how to treat. https://t.co/qIuSRHB3wj,04/21/2022 14:32:13,184,18,354,19,False
+1516952720971759616,DrTomFrieden,"Even if you don't feel at risk from Covid, people around you might be. All of us can take simple steps to prevent the spread of Covid, including masking up in certain situations, getting tested before gathering with vulnerable people, and staying home if we don't feel well.",04/21/2022 01:31:26,182,28,767,11,False
+1516884878997872640,DrTomFrieden,"People are sick and tired of the pandemic, but the virus isn't tired of making us sick. Wearing a mask is a low-cost way to keep people safe and our economy growing. https://t.co/0LvEIHMCHg",04/20/2022 21:01:52,110,42,425,10,False
+1516798153269276676,DrTomFrieden,We don't know what's coming next with Covid or when a future health threat will emerge and we need public health tools to keep us safe. https://t.co/eVfazDl4Ou,04/20/2022 15:17:15,159,64,609,5,True
+1516798081500557316,DrTomFrieden,"With cases going up, the idea of masks going down doesn’t make a lot of sense. We're all connected—the more of us are masked up when Covid is spreading, the safer we all are.",04/20/2022 15:16:58,2480,757,12121,151,False
+1516565049728512005,DrTomFrieden,"For people who are immunosuppressed, flying in the US just got less safe.
+ 
+We’re tired of Covid but masks are a small price to pay to save lives and keep our economy growing.",04/19/2022 23:50:58,2652,1207,14309,210,False
+1516488772849848320,DrTomFrieden,"Covid can make some kids very sick, even if they don't have underlying health conditions. It's important for kids to get vaccinated. https://t.co/FJp5YgSxwN https://t.co/ZllRW0eUz9",04/19/2022 18:47:53,72,13,199,8,True
+1516488613315317765,DrTomFrieden,"Among nearly 400 kids aged 5-11 who were hospitalized from Covid during the first few months of Omicron, about 9 in 10 were unvaccinated, according to a new CDC report.",04/19/2022 18:47:15,355,84,965,20,False
 1516411147632607232,DrTomFrieden,"What are the fundamental lessons of the Covid pandemic? We need the R's:
 
 1. Renaissance in public health
 2. Robust primary health care
-3. Resilient individuals and communities prepared to withstand future health threats.",04/19/2022 13:39:25,47,30,198,5,False
-1516250552316805130,DrTomFrieden,"We must reach as many people as possible with vaccination. Congrats to @WakeGOV for improving access to Covid vaccines in underserved communities, increasing rates in some parts of the county by 30%. @ResolveTSL has been honored to be part of the team. https://t.co/Edhc4H2pOA",04/19/2022 03:01:16,16,0,56,1,False
-1516177185010184192,DrTomFrieden,"The US spends 300 to 500 times less on our health defense than our military defense, and yet no war in our history has killed as many people as Covid has. We need sufficient funding to break the cycle of panic and neglect to better protect against health emergencies.",04/18/2022 22:09:44,259,23,838,12,False
-1516156445032517634,DrTomFrieden,"The virus that causes Covid is continuing to adapt—that's what viruses do. To stay ahead of it, we must adapt also by tracking it closely, learning and acting quickly. https://t.co/JFX4fpMYug",04/18/2022 20:47:19,211,44,572,17,False
-1516112523644137473,DrTomFrieden,"Now is the time for a renaissance in public health, and we can learn from the lessons of Covid to improve structures, data collection, communication and funding at CDC. https://t.co/kLmTkD5llH",04/18/2022 17:52:48,25,9,77,3,False
-1515442627042107397,DrTomFrieden,"When it comes to the pandemic, the only constant is change. If we learn, adapt and act quickly, we can control Covid so it doesn't control our lives.",04/16/2022 21:30:52,139,49,772,4,False
-1515092725049151488,DrTomFrieden,"Vaccines don't prevent every infection, but they continue to provide remarkable protection against severe illness—their primary objective. The best way to reduce your risk from Covid is to stay up-to-date on your vaccination.",04/15/2022 22:20:29,239,69,912,11,False
+3. Resilient individuals and communities prepared to withstand future health threats.",04/19/2022 13:39:25,54,37,256,6,False
+1516250552316805130,DrTomFrieden,"We must reach as many people as possible with vaccination. Congrats to @WakeGOV for improving access to Covid vaccines in underserved communities, increasing rates in some parts of the county by 30%. @ResolveTSL has been honored to be part of the team. https://t.co/Edhc4H2pOA",04/19/2022 03:01:16,15,0,62,1,False
+1516177185010184192,DrTomFrieden,"The US spends 300 to 500 times less on our health defense than our military defense, and yet no war in our history has killed as many people as Covid has. We need sufficient funding to break the cycle of panic and neglect to better protect against health emergencies.",04/18/2022 22:09:44,284,21,899,16,False
+1516156445032517634,DrTomFrieden,"The virus that causes Covid is continuing to adapt—that's what viruses do. To stay ahead of it, we must adapt also by tracking it closely, learning and acting quickly. https://t.co/JFX4fpMYug",04/18/2022 20:47:19,227,50,606,20,False
+1516112523644137473,DrTomFrieden,"Now is the time for a renaissance in public health, and we can learn from the lessons of Covid to improve structures, data collection, communication and funding at CDC. https://t.co/kLmTkD5llH",04/18/2022 17:52:48,25,9,79,3,False
+1515701727617601538,DrTomFrieden,"RT @fibke: Lower-middle-income countries (LMICs) have borne the brunt of this pandemic 
+
+1/
+https://t.co/aeMNLN7Yqy",04/17/2022 14:40:26,42,0,0,0,False
+1515442627042107397,DrTomFrieden,"When it comes to the pandemic, the only constant is change. If we learn, adapt and act quickly, we can control Covid so it doesn't control our lives.",04/16/2022 21:30:52,138,47,770,4,False
+1515092794624282624,DrTomFrieden,"""If we are to move from pandemic to endemic, at some point we are going to have to accept that vaccination or natural infection or a combination of the two will not offer long-term protection against mild illness."" -@DrPaulOffit. Adaptive response is key. https://t.co/WBmO61znl8",04/15/2022 22:20:45,31,11,97,4,False
+1515092725049151488,DrTomFrieden,"Vaccines don't prevent every infection, but they continue to provide remarkable protection against severe illness—their primary objective. The best way to reduce your risk from Covid is to stay up-to-date on your vaccination.",04/15/2022 22:20:29,241,71,907,11,False
 1515085961289367553,DrTomFrieden,"Thanks @Farzad_MD for sharing your experience with Covid—I'm glad you and your family are feeling better. 
 
-Many important lessons in this thread, including the need to ease access to treatment and to improve primary care. https://t.co/bUWYHXVT4J",04/15/2022 21:53:36,28,7,103,0,False
-1514981953791004677,DrTomFrieden,"Everyone who has Covid symptoms should mask up around others and get tested. If you test positive, stay home and isolate.",04/15/2022 15:00:19,1086,420,5474,84,False
+Many important lessons in this thread, including the need to ease access to treatment and to improve primary care. https://t.co/bUWYHXVT4J",04/15/2022 21:53:36,28,7,104,0,False
+1514981953791004677,DrTomFrieden,"Everyone who has Covid symptoms should mask up around others and get tested. If you test positive, stay home and isolate.",04/15/2022 15:00:19,1092,419,5429,84,False
 1514951626188111872,DrTomFrieden,"RT @ASlavitt: COVID Update: I want to summarize priorities and expectations for what’s next.
 
 I have made the rounds of key DC decision mak…",04/15/2022 12:59:48,883,0,0,0,False
-1514680717036306438,DrTomFrieden,Newly published CDC statistics show a concerning rise in US death rates from heart disease in 2020—likely due in large part to Covid and the pandemic's impacts on health and health care.,04/14/2022 19:03:19,143,22,487,6,False
-1514662641075036192,DrTomFrieden,"Globally, we've reached 500 million DIAGNOSED cases. In reality, there have likely been over 5 BILLION actual infections. And Covid isn’t finished—it’s adapting and we must adapt also by using tools we have: vaccinate, mask when appropriate, better surveillance, tests, treatment.",04/14/2022 17:51:29,95,19,282,6,False
-1514607352921542668,DrTomFrieden,"Vaccination is our most powerful tool against Covid, as this new @commonwealthfnd report shows. We must keep vaccinating—especially those over 65 who aren't up to date on their vaccination. https://t.co/BuDLCRKDMs",04/14/2022 14:11:47,33,15,125,2,False
-1514607125703536642,DrTomFrieden,"Covid vaccination has saved 2.2 million lives in the US, according to updated estimates. As horrible as the toll of Covid has been, it could have been three times worse (!) if we didn't have vaccines.",04/14/2022 14:10:53,196,25,668,8,False
-1514334935556845569,DrTomFrieden,"Masking up is a simple, proven way to reduce the spread of Covid. It's a good idea to wear a mask if you feel sick, are at or around those at higher risk of severe illness or are worried about getting infected.",04/13/2022 20:09:18,417,208,1785,31,False
-1514320794901352449,DrTomFrieden,Staying up-to-date with your vaccination is the best way to prevent long Covid. Vaccines reduce your risk of serious illness AND make it less likely you'll develop lasting symptoms even if you do get infected.,04/13/2022 19:13:06,99,39,419,10,False
-1513906437893746689,DrTomFrieden,"Estimates suggest 10-30% or more of people who get infected with Covid develop long-term symptoms. We're continuing to learn more about long Covid, but there's still a lot we don't know about the condition and how to help people who are suffering. https://t.co/jKZXBlXCCc",04/12/2022 15:46:36,678,80,1305,70,False
-1513464265037987843,DrTomFrieden,"Hypertension is accurately called the silent killer. Globally it killed twice as many people as Covid, and at a younger age. And, it's readily treatable. https://t.co/QjwOTtI6Ix",04/11/2022 10:29:34,27,7,88,4,False
+1514680717036306438,DrTomFrieden,Newly published CDC statistics show a concerning rise in US death rates from heart disease in 2020—likely due in large part to Covid and the pandemic's impacts on health and health care.,04/14/2022 19:03:19,143,23,480,6,False
+1514662641075036192,DrTomFrieden,"Globally, we've reached 500 million DIAGNOSED cases. In reality, there have likely been over 5 BILLION actual infections. And Covid isn’t finished—it’s adapting and we must adapt also by using tools we have: vaccinate, mask when appropriate, better surveillance, tests, treatment.",04/14/2022 17:51:29,93,20,279,7,False
+1514607352921542668,DrTomFrieden,"Vaccination is our most powerful tool against Covid, as this new @commonwealthfnd report shows. We must keep vaccinating—especially those over 65 who aren't up to date on their vaccination. https://t.co/BuDLCRKDMs",04/14/2022 14:11:47,32,15,124,3,False
+1514607125703536642,DrTomFrieden,"Covid vaccination has saved 2.2 million lives in the US, according to updated estimates. As horrible as the toll of Covid has been, it could have been three times worse (!) if we didn't have vaccines.",04/14/2022 14:10:53,195,25,664,8,False
+1514334935556845569,DrTomFrieden,"Masking up is a simple, proven way to reduce the spread of Covid. It's a good idea to wear a mask if you feel sick, are at or around those at higher risk of severe illness or are worried about getting infected.",04/13/2022 20:09:18,414,205,1769,31,False
+1514320794901352449,DrTomFrieden,Staying up-to-date with your vaccination is the best way to prevent long Covid. Vaccines reduce your risk of serious illness AND make it less likely you'll develop lasting symptoms even if you do get infected.,04/13/2022 19:13:06,99,39,416,10,False
+1513906437893746689,DrTomFrieden,"Estimates suggest 10-30% or more of people who get infected with Covid develop long-term symptoms. We're continuing to learn more about long Covid, but there's still a lot we don't know about the condition and how to help people who are suffering. https://t.co/jKZXBlXCCc",04/12/2022 15:46:36,678,80,1298,70,False
+1513464265037987843,DrTomFrieden,"Hypertension is accurately called the silent killer. Globally it killed twice as many people as Covid, and at a younger age. And, it's readily treatable. https://t.co/QjwOTtI6Ix",04/11/2022 10:29:34,27,7,86,4,False
 1512805608604450826,DrTomFrieden,"Important report from @commonwealthfnd!
 
 2.2 million lives (and $900 billion) saved by vaccination.
@@ -35,7 +78,7 @@ Horrible as the toll of Covid has been, it could have been 3 times worse.
 
 Shaded spikes in graphic below: deaths that DIDN'T happen.
 
-Keep on vaccinating. https://t.co/l1MJUklgjV https://t.co/K5zT61Dd4s",04/09/2022 14:52:18,90,9,177,7,True
+Keep on vaccinating. https://t.co/l1MJUklgjV https://t.co/K5zT61Dd4s",04/09/2022 14:52:18,90,10,177,7,True
 1512737972927574017,DrTomFrieden,"RT @fibke: ""COVID-19 is a rich-country disease, so poorer countries don't need vaccines""
 
 Reminder 🧵
@@ -43,7 +86,8 @@ Reminder 🧵
 Developing world (all but HIC) claims…",04/09/2022 10:23:32,33,0,0,0,False
 1512461180417290245,DrTomFrieden,"The deadly surge in Hong Kong was from … Omicron. Although less deadly than delta, Omicron can be ferocious in a population not immune to Covid. Get vaccinated. 
 
-https://t.co/9Bbwn4I0hw",04/08/2022 16:03:40,84,6,195,4,False
+https://t.co/9Bbwn4I0hw",04/08/2022 16:03:40,83,6,193,4,False
+1512441737020649474,DrTomFrieden,"Health workers are essential for successful pandemic preparedness and response. It’s crucial to guarantee their safety. The World Health Assembly passed a resolution to protect health workers last year. As we approach the next #WHA, it’s time to act. #WHWWeek",04/08/2022 14:46:24,14,2,77,0,False
 1512426923128991751,DrTomFrieden,"New @CDCMMWR study finds that unvaccinated adults over 60 were 20 times more likely to die during Hong Kong’s recent Covid surge. 
 
 Make sure you’re up-to-date on your vaccinations.  We don’t know when the next surge is coming and staying up-to-date could save your life. https://t.co/Nq6SRJ3vvV",04/08/2022 13:47:32,37,3,79,0,True
@@ -51,21 +95,15 @@ Make sure you’re up-to-date on your vaccinations.  We don’t know when the ne
 
 Masking is a simple, easy tool that can help us get back to activities we miss without the cascading effects on society. 
 
-https://t.co/HIgBtZ2S0S",04/08/2022 13:23:29,2919,697,7159,387,False
-1512411539864793089,DrTomFrieden,"Living with Covid means recognizing that there are things in life we can control and things we cannot control. The higher the global vaccination rate and the more agility we have increasing/decreasing masking and other measures as the virus flares, the more control we will have. https://t.co/90xqj5zx6U",04/08/2022 12:46:25,42,7,137,3,False
+https://t.co/HIgBtZ2S0S",04/08/2022 13:23:29,2912,734,7091,391,False
+1512411539864793089,DrTomFrieden,"Living with Covid means recognizing that there are things in life we can control and things we cannot control. The higher the global vaccination rate and the more agility we have increasing/decreasing masking and other measures as the virus flares, the more control we will have. https://t.co/90xqj5zx6U",04/08/2022 12:46:25,42,7,134,3,False
 1512204900624650241,DrTomFrieden,"Covid has confirmed that an outbreak anywhere is a threat everywhere. @AmandaMcClella2 notes how we have a once-in-a-lifetime opportunity to strengthen global public health systems 
 
-https://t.co/bfHceWz6Ma",04/07/2022 23:05:18,21,1,53,2,False
-1512188676373155844,DrTomFrieden,Covid has taught us that we are only as prepared as the most vulnerable. We’ve made some progress in preparedness but not nearly enough. Reducing our risk will take a multiyear global investment and focus. #WorldHealthDay,04/07/2022 22:00:50,116,12,433,1,False
+https://t.co/bfHceWz6Ma",04/07/2022 23:05:18,20,1,52,2,False
+1512188676373155844,DrTomFrieden,Covid has taught us that we are only as prepared as the most vulnerable. We’ve made some progress in preparedness but not nearly enough. Reducing our risk will take a multiyear global investment and focus. #WorldHealthDay,04/07/2022 22:00:50,115,12,431,1,False
 1512166585531777039,DrTomFrieden,"As we emerge from the deadliest health threat of our lives #WorldHealthDay is a reminder that without sustained investment in public health, we will be unprepared for the next pandemic. 
 
 Covid is increasingly forgotten but not yet gone. 
 
-#OurPlanetOurHealth",04/07/2022 20:33:03,126,80,497,8,False
-1511358625851318272,DrTomFrieden,"The stresses of Covid highlighted cracks in the US public health system’s foundations. There are no quick fixes. Sufficient funding to protect American lives is crucial. Financing for public health must be sustained, predictable, sufficient, and flexible. #NPHW",04/05/2022 15:02:30,138,20,476,7,False
-1511358625566101510,DrTomFrieden,"New report by @deBeaumontFndtn details how Covid has led to increased symptoms of PTSD, stress and burnout for health workers.
-
-Despite challenges, many remain committed to their jobs and communities – we must invest in keeping our health workforce safe.
-
-https://t.co/SknB9HdnHL",04/05/2022 15:02:30,14,2,41,0,False
-1509947924406538245,DrTomFrieden,"In five years, we’ve helped countries and organizations fight Covid, improve infectious disease preparedness, and protect people from heart disease. Now, we’re accelerating this progress to save as many lives as possible. https://t.co/oquMYTmL7w https://t.co/HaKL9ilRy1",04/01/2022 17:36:53,12,1,35,1,True
+#OurPlanetOurHealth",04/07/2022 20:33:03,126,80,493,8,False
+1511358625851318272,DrTomFrieden,"The stresses of Covid highlighted cracks in the US public health system’s foundations. There are no quick fixes. Sufficient funding to protect American lives is crucial. Financing for public health must be sustained, predictable, sufficient, and flexible. #NPHW",04/05/2022 15:02:30,138,20,472,7,False

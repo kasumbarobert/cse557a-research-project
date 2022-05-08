@@ -1,110 +1,110 @@
-,tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
-0,1475609378959015938,CDCGov,"RT @CDCDirector: Today, @CDCgov released updates to shorten the recommended time for #COVID19 isolation and quarantine. People are maximall…",12/27/2021 23:27:46,518,0,0,0,False
-1,1475607165981405193,CDCGov,CDC has shortened the recommended time for #COVID19 isolation and quarantine. Learn more about what to do if you test positive or have close contact with someone who tested positive for COVID-19: https://t.co/ScxsyrZI16.,12/27/2021 23:18:58,2017,1547,2772,2263,False
-2,1475587321277956096,CDCGov,"As of Dec. 27, 2021, 242.4 million people have received at least one dose of a #COVID19 vaccine. Of those, 205.2 million are fully vaccinated. More than 66.4 million people have received a COVID-19 booster. 
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1475609378959015938,CDCGov,"RT @CDCDirector: Today, @CDCgov released updates to shorten the recommended time for #COVID19 isolation and quarantine. People are maximall…",12/27/2021 23:27:46,516,0,0,0,False
+1475607165981405193,CDCGov,CDC has shortened the recommended time for #COVID19 isolation and quarantine. Learn more about what to do if you test positive or have close contact with someone who tested positive for COVID-19: https://t.co/ScxsyrZI16.,12/27/2021 23:18:58,2011,1542,2759,2263,False
+1475587321277956096,CDCGov,"As of Dec. 27, 2021, 242.4 million people have received at least one dose of a #COVID19 vaccine. Of those, 205.2 million are fully vaccinated. More than 66.4 million people have received a COVID-19 booster. 
 
-Make your vaccination appointment today. More: https://t.co/zYLe3H12re. https://t.co/ZOmCRhw6Bl",12/27/2021 22:00:07,229,142,496,31,True
-3,1475529419812974595,CDCGov,"Hospital stays can be expensive, but COVID-19 vaccines are free. Help protect yourself from being hospitalized with #COVID19 by getting vaccinated.
+Make your vaccination appointment today. More: https://t.co/zYLe3H12re. https://t.co/ZOmCRhw6Bl",12/27/2021 22:00:07,226,142,491,31,True
+1475529419812974595,CDCGov,"Hospital stays can be expensive, but COVID-19 vaccines are free. Help protect yourself from being hospitalized with #COVID19 by getting vaccinated.
 
-Find your vaccine: https://t.co/xbvNiaVJKV. https://t.co/NEwqZqzAwI",12/27/2021 18:10:02,573,1067,1505,2698,True
-4,1475513069648424967,CDCGov,"Too cold to open windows? Improve ventilation in your home by upgrading your HVAC filter, running a HEPA purifier, and using kitchen/bathroom exhaust fans. See how these actions can help reduce #COVID19 particles in your home’s air: https://t.co/TBVrZob27w. https://t.co/gS4DdljQ3A",12/27/2021 17:05:04,195,47,392,31,True
-5,1475496697979625474,CDCGov,"4  things you can do to help protect yourself from Omicron:
+Find your vaccine: https://t.co/xbvNiaVJKV. https://t.co/NEwqZqzAwI",12/27/2021 18:10:02,572,1064,1497,2698,True
+1475513069648424967,CDCGov,"Too cold to open windows? Improve ventilation in your home by upgrading your HVAC filter, running a HEPA purifier, and using kitchen/bathroom exhaust fans. See how these actions can help reduce #COVID19 particles in your home’s air: https://t.co/TBVrZob27w. https://t.co/gS4DdljQ3A",12/27/2021 17:05:04,194,47,388,31,True
+1475496697979625474,CDCGov,"4  things you can do to help protect yourself from Omicron:
 
 1.Get vaccinated
 2.Get boosted
 3.Wear a mask in public indoor settings
 4.Get tested
 
-Learn more: https://t.co/iOu5gmlkNT. #COVID19",12/27/2021 16:00:00,1216,1164,2115,242,False
-6,1474162600183316483,CDCGov,CDC releases emergency guidance for healthcare facilities to prepare for potential #COVID19 #Omicron surge. See full statement. https://t.co/aoVIV4Tu8Y,12/23/2021 23:38:47,430,308,715,142,False
-7,1474130206420090887,CDCGov,"#DYK? Parents can use COVID Data Tracker to find out how #COVID19 is affecting children and adolescents. COVID Data Tracker is CDC’s home for COVID-19 data, including cases, deaths, hospitalizations, vaccinations, testing, and more. Learn more: https://t.co/kr4YQL6nw0.",12/23/2021 21:30:03,48,35,114,7,False
-8,1474114121805221899,CDCGov,RT @CDCDirector: This week marks an important milestone – the administration of +500M #COVID19 vaccines. There is still work to be done as…,12/23/2021 20:26:09,113,0,0,0,False
-9,1474113336216272900,CDCGov,"Help stop the spread of misinformation. 
+Learn more: https://t.co/iOu5gmlkNT. #COVID19",12/27/2021 16:00:00,1344,1425,2326,267,False
+1474162600183316483,CDCGov,CDC releases emergency guidance for healthcare facilities to prepare for potential #COVID19 #Omicron surge. See full statement. https://t.co/aoVIV4Tu8Y,12/23/2021 23:38:47,429,308,710,142,False
+1474130206420090887,CDCGov,"#DYK? Parents can use COVID Data Tracker to find out how #COVID19 is affecting children and adolescents. COVID Data Tracker is CDC’s home for COVID-19 data, including cases, deaths, hospitalizations, vaccinations, testing, and more. Learn more: https://t.co/kr4YQL6nw0.",12/23/2021 21:30:03,48,34,112,7,False
+1474114121805221899,CDCGov,RT @CDCDirector: This week marks an important milestone – the administration of +500M #COVID19 vaccines. There is still work to be done as…,12/23/2021 20:26:09,113,0,0,0,False
+1474113336216272900,CDCGov,"Help stop the spread of misinformation. 
 Tap into credible sources to help bust myths and learn the facts about #COVID19 vaccines.
-More: https://t.co/c3T9VAF5Ce. https://t.co/LHB8VvXC99",12/23/2021 20:23:01,84,59,154,8,True
-10,1474086156409225226,CDCGov,"No, you should wait to get vaccinated if you've tested positive for #COVID19 or had symptoms during the past 10 days. You can get vaccinated 10 days after the start of symptoms, or 10 days after a positive test result if you haven't had symptoms. More: https://t.co/5Ja6j8Gyxe. https://t.co/HoHxIB90Gg",12/23/2021 18:35:01,339,127,571,32,True
-11,1474047148710932484,CDCGov,"#COVID19 vaccines are expected to help protect against severe illness, hospitalization, and death due to infection with the Omicron variant.
+More: https://t.co/c3T9VAF5Ce. https://t.co/LHB8VvXC99",12/23/2021 20:23:01,84,58,153,8,True
+1474086156409225226,CDCGov,"No, you should wait to get vaccinated if you've tested positive for #COVID19 or had symptoms during the past 10 days. You can get vaccinated 10 days after the start of symptoms, or 10 days after a positive test result if you haven't had symptoms. More: https://t.co/5Ja6j8Gyxe. https://t.co/HoHxIB90Gg",12/23/2021 18:35:01,339,126,568,32,True
+1474047148710932484,CDCGov,"#COVID19 vaccines are expected to help protect against severe illness, hospitalization, and death due to infection with the Omicron variant.
 Get vaccinated against COVID-19 or if you’re fully vaccinated, get your booster when you’re eligible.
 
-Learn more: https://t.co/wbu65KILpe.",12/23/2021 16:00:01,202,172,357,39,False
-12,1473767812636286985,CDCGov,"🧪COVID-19 Science Update:
+Learn more: https://t.co/wbu65KILpe.",12/23/2021 16:00:01,201,172,351,39,False
+1473767812636286985,CDCGov,"🧪COVID-19 Science Update:
 
 Read the latest #COVID19 research on the Omicron variant, booster effectiveness, masks, and more.
 
-👓Read the full update: https://t.co/lhVz1tkANh.",12/22/2021 21:30:02,108,81,217,9,False
-13,1473760288642109442,CDCGov,"CDC recommends that if you are pregnant, breastfeeding, trying to get pregnant now, or might become pregnant in the future, you should receive a #COVID19 booster dose when you are eligible after completing your initial vaccination. Learn more: https://t.co/pBVlI6STf8. https://t.co/QeU55YLg3T",12/22/2021 21:00:08,98,74,180,14,True
-14,1473748945155334144,CDCGov,#Parents: CDC uses v-safe to help monitor the safety of #COVID19 vaccines. You can participate in safety monitoring by enrolling yourself and your child in v-safe after vaccination. Signing up is simple: https://t.co/S4ZmF2foa9. https://t.co/MPjHUnr1yG,12/22/2021 20:15:04,33,31,72,5,True
-15,1473737605837590528,CDCGov,"The Omicron variant spreads more easily than the original virus that causes #COVID19. Help stop Omicron by using all the tools to protect yourself and others. 
+👓Read the full update: https://t.co/lhVz1tkANh.",12/22/2021 21:30:02,108,81,213,9,False
+1473760288642109442,CDCGov,"CDC recommends that if you are pregnant, breastfeeding, trying to get pregnant now, or might become pregnant in the future, you should receive a #COVID19 booster dose when you are eligible after completing your initial vaccination. Learn more: https://t.co/pBVlI6STf8. https://t.co/QeU55YLg3T",12/22/2021 21:00:08,98,73,178,14,True
+1473748945155334144,CDCGov,#Parents: CDC uses v-safe to help monitor the safety of #COVID19 vaccines. You can participate in safety monitoring by enrolling yourself and your child in v-safe after vaccination. Signing up is simple: https://t.co/S4ZmF2foa9. https://t.co/MPjHUnr1yG,12/22/2021 20:15:04,33,31,70,5,True
+1473737605837590528,CDCGov,"The Omicron variant spreads more easily than the original virus that causes #COVID19. Help stop Omicron by using all the tools to protect yourself and others. 
 
-Learn more: https://t.co/wbu65L0mgM.",12/22/2021 19:30:00,1443,2758,2046,306,False
-16,1473726286463967232,CDCGov,"Yes, all #COVID19 vaccine recipients, including children ages 5 years and older, will receive a CDC vaccination card. Parents should take a photo of the card and then keep it in a safe place. More: https://t.co/VpH3DMePf0. https://t.co/SirIkeVJyw",12/22/2021 18:45:01,86,51,160,11,True
-17,1473699946461384712,CDCGov,#HCPs: Take advantage of the 15-minute post-vaccination observation period to encourage parents to register their children for v-safe so they can report any side effects from a #COVID19 vaccine &amp; get reminders if a 2nd dose is needed. Learn more:  https://t.co/S4ZmF2foa9. https://t.co/nHiwEWLMAZ,12/22/2021 17:00:21,33,25,91,1,True
-18,1473684836300861449,CDCGov,"Hospital stays can be expensive, but COVID-19 vaccines are free. Help protect yourself from being hospitalized with #COVID19 by getting vaccinated.
+Learn more: https://t.co/wbu65L0mgM.",12/22/2021 19:30:00,1418,2742,2017,306,False
+1473726286463967232,CDCGov,"Yes, all #COVID19 vaccine recipients, including children ages 5 years and older, will receive a CDC vaccination card. Parents should take a photo of the card and then keep it in a safe place. More: https://t.co/VpH3DMePf0. https://t.co/SirIkeVJyw",12/22/2021 18:45:01,86,51,158,11,True
+1473699946461384712,CDCGov,#HCPs: Take advantage of the 15-minute post-vaccination observation period to encourage parents to register their children for v-safe so they can report any side effects from a #COVID19 vaccine &amp; get reminders if a 2nd dose is needed. Learn more:  https://t.co/S4ZmF2foa9. https://t.co/nHiwEWLMAZ,12/22/2021 17:00:21,32,25,89,1,True
+1473684836300861449,CDCGov,"Hospital stays can be expensive, but COVID-19 vaccines are free. Help protect yourself from being hospitalized with #COVID19 by getting vaccinated.
 
-Find your vaccine: https://t.co/xbvNiaVJKV. https://t.co/R0IfPyyoTE",12/22/2021 16:00:19,197,90,446,41,True
-19,1473405417657016322,CDCGov,"UPDATED COVID-19 VACCINE RECOMMENDATIONS: CDC recommends mRNA #COVID19 vaccines (Pfizer-BioNTech and Moderna) over the Johnson &amp; Johnson COVID-19 vaccine.
+Find your vaccine: https://t.co/xbvNiaVJKV. https://t.co/R0IfPyyoTE",12/22/2021 16:00:19,196,90,439,41,True
+1473405417657016322,CDCGov,"UPDATED COVID-19 VACCINE RECOMMENDATIONS: CDC recommends mRNA #COVID19 vaccines (Pfizer-BioNTech and Moderna) over the Johnson &amp; Johnson COVID-19 vaccine.
 
-More: https://t.co/ao5IOIhujg.",12/21/2021 21:30:00,276,104,410,22,False
-20,1473390331752288257,CDCGov,"#Parents: 3 things to know abt v-safe:
+More: https://t.co/ao5IOIhujg.",12/21/2021 21:30:00,274,104,407,22,False
+1473390331752288257,CDCGov,"#Parents: 3 things to know abt v-safe:
 1️⃣V-safe helps you report side effects from a #COVID19 vaccine &amp; sends reminders if a 2nd dose is needed.
 2️⃣Enroll your kids ages 5 yrs+ in v-safe from a smartphone.
 3️⃣One v-safe registration is needed for each child.
-https://t.co/S4ZmF2foa9 https://t.co/EO35mF8J3H",12/21/2021 20:30:04,51,29,103,3,True
-21,1473370692234141703,CDCGov,"Kids ages 5 years and older should get a COVID-19 vaccine to help protect them from #COVID19 and get back to things they've missed because of the pandemic.
+https://t.co/S4ZmF2foa9 https://t.co/EO35mF8J3H",12/21/2021 20:30:04,50,29,102,3,True
+1473370692234141703,CDCGov,"Kids ages 5 years and older should get a COVID-19 vaccine to help protect them from #COVID19 and get back to things they've missed because of the pandemic.
 
 Get your children and teens vaccinated as soon as possible! 
 
-Find a vaccine for your child at https://t.co/2akIUZ14Rd. https://t.co/O1IgFp0uXd",12/21/2021 19:12:01,206,162,429,28,True
-22,1473356359768936456,CDCGov,"K-12 administrators, teachers, &amp; staff: Test to Stay may help keep students in the classroom while minimizing the spread of #COVID19 in schools. Learn more about Test to Stay: https://t.co/yUWFpc9aCY. https://t.co/nWpJAah3UW",12/21/2021 18:15:04,57,24,126,6,True
-23,1473322481054322693,CDCGov,"Local youth in Pima, Arizona, along with the Pima County Health Department, collaborated to create a social media contest to address #COVID19 misinformation and encourage vaccination among residents ages 24 years and younger.
+Find a vaccine for your child at https://t.co/2akIUZ14Rd. https://t.co/O1IgFp0uXd",12/21/2021 19:12:01,205,162,425,28,True
+1473356359768936456,CDCGov,"K-12 administrators, teachers, &amp; staff: Test to Stay may help keep students in the classroom while minimizing the spread of #COVID19 in schools. Learn more about Test to Stay: https://t.co/yUWFpc9aCY. https://t.co/nWpJAah3UW",12/21/2021 18:15:04,56,24,123,6,True
+1473322481054322693,CDCGov,"Local youth in Pima, Arizona, along with the Pima County Health Department, collaborated to create a social media contest to address #COVID19 misinformation and encourage vaccination among residents ages 24 years and younger.
 
-Learn more: https://t.co/76SiBxnBN5. https://t.co/DhTpbOjrjU",12/21/2021 16:00:27,46,41,119,7,True
-24,1473307279038550018,CDCGov,"As of 12/20/21, #Omicron has been detected in most states &amp; territories and is rapidly increasing the proportion of #COVID19 cases. CDC is working w. state &amp; local public health officials to monitor the spread of Omicron.
+Learn more: https://t.co/76SiBxnBN5. https://t.co/DhTpbOjrjU",12/21/2021 16:00:27,45,41,116,7,True
+1473307279038550018,CDCGov,"As of 12/20/21, #Omicron has been detected in most states &amp; territories and is rapidly increasing the proportion of #COVID19 cases. CDC is working w. state &amp; local public health officials to monitor the spread of Omicron.
 
-Here's what you need to know: https://t.co/wbu65KILpe.",12/21/2021 15:00:02,181,96,268,26,False
-25,1473295097714335746,CDCGov,RT @CDCDirector: News on the #OmicronVariant: National genomic surveillance estimates Omicron accounts for around 73% of #COVID19 cases. Th…,12/21/2021 14:11:38,232,0,0,0,False
-26,1473035515733716993,CDCGov,"As of Dec. 20, 2021, 241.9 million people have received at least one dose of a #COVID19 vaccine. Of those, 204.1 million are fully vaccinated. More than 60.8 million people have received a COVID-19 booster. 
-Make your vaccination appointment today. More: https://t.co/zYLe3H12re. https://t.co/Ooz2QPHueL",12/20/2021 21:00:09,194,94,415,25,True
-27,1473007044986916868,CDCGov,"Parents: Taking your child to get their #COVID19 vaccine? Use the 15-minute observation period right after vaccination to enroll them in v-safe, a smartphone-based tool. With v-safe, you can tell CDC if your child has any side effects. More: https://t.co/S4ZmF2foa9. https://t.co/Ca2zVIBXfd",12/20/2021 19:07:01,59,53,103,12,True
-28,1472967555564417027,CDCGov,Learn how innovative #COVID19 surveillance strategy may facilitate safe in-person schooling in #PublicHealthReports: https://t.co/9F1McG2s3S. https://t.co/i4JMS0ynBn,12/20/2021 16:30:06,45,15,85,4,True
-29,1472960088663105538,CDCGov,"Too cold to open windows? Improve ventilation in your home by upgrading your HVAC filter, running a HEPA purifier, and using kitchen/bathroom exhaust fans. See how these actions can help reduce #COVID19 particles in your home’s air: https://t.co/TBVrZob27w. https://t.co/b0iyEuBL3K",12/20/2021 16:00:26,168,30,322,26,True
-30,1472630570362494986,CDCGov,The time Ashley King spent serving on the CDC #COVID19 response team helped her thrive as a young professional. Read her story on #OurGlobalVoices🌍. https://t.co/apbnmtH7wR https://t.co/DaDkh9areB,12/19/2021 18:11:02,25,27,97,3,True
-31,1472317249230888963,CDCGov,Gathering with friends and family? Consider using #COVID19 self-tests to help protect those you care about. View videos about how to self-test and learn more: https://t.co/6IWdJW0leJ. #TestToProtect https://t.co/1eJtiosdn9,12/18/2021 21:26:01,222,185,398,56,True
-32,1472284290192920580,CDCGov,"Bob Briley, an emergency management specialist at CDC, is responsible for the logistics of emergency operations. Although #COVID19 has been his focus recently, Bob also has to keep an eye on disasters and civil unrest around the world. More: https://t.co/eRNjmidSyk. https://t.co/9RWo63nwQi",12/18/2021 19:15:03,41,46,128,4,True
-33,1472235298822275073,CDCGov,"#COVID19 cases, hospitalizations, and deaths have all increased in recent weeks. As people travel and gather this holiday season, take steps to protect yourself and your loved ones. Get vaccinated. If you’re eligible for a booster dose, get one now. More: https://t.co/F4bAyObDp1. https://t.co/dB4rGA6zJX",12/18/2021 16:00:22,272,183,450,38,True
-34,1471955886511898625,CDCGov,CDC recommends all people ages 5+ years get vaccinated against #COVID19. More than half of parents &amp; guardians of kids ages 5-17 years report that their children have been vaccinated or will definitely get vaccinated. Get your kids vaccinated today. More: https://t.co/weI4b3nKau. https://t.co/TLXC5okDWk,12/17/2021 21:30:05,415,777,871,98,True
-35,1471933310951731204,CDCGov,"Although vaccination is the best way to protect against #COVID19 for those aged 5 and up, schools might consider Test to Stay strategy for allowing close contacts who are not fully vaccinated to remain in the classroom. Learn more in a new @CDCMMWR: https://t.co/3m64vomRDh. https://t.co/AAENAdxJ1y",12/17/2021 20:00:23,123,104,303,25,True
-36,1471919055904858126,CDCGov,New CDC research finds Test to Stay is an effective option to minimize absenteeism and learning loss in students exposed to #COVID19 in schools. Learn more: https://t.co/QS1AUmPZJd. https://t.co/Ha1bhQ263A,12/17/2021 19:03:44,53,32,115,13,True
-37,1471906803369844746,CDCGov,"New @CDCMMWR shows a Test to Stay strategy allowed LA County K-12 students who were not fully vaccinated &amp; exposed to someone w/ #COVID19 to continue in-person learning if they had no COVID-19 symptoms, were regularly tested for COVID-19, &amp; wore a mask. https://t.co/6HWA3iKcc5 https://t.co/1T1APIrqG5",12/17/2021 18:15:03,52,50,116,9,True
-38,1471895487347363849,CDCGov,#HCPs: Attend today’s COCA Call from 2–3 p.m. EST on Updated Guidance for Clinicians on #COVID19 Vaccines. Learn more: https://t.co/WVm3YZMcUc. https://t.co/oN9aRAduPo,12/17/2021 17:30:05,21,11,46,3,True
-39,1471887930645954560,CDCGov,Booster Update: New age groups are eligible for #COVID19 booster shots. Learn more: https://t.co/77CTFuJFcO.,12/17/2021 17:00:03,193,82,296,15,False
-40,1471872927217991685,CDCGov,#COVID19 vaccines have undergone – and will continue to undergo – the most intensive safety monitoring in U.S. history. CDC &amp; FDA are using new and established safety monitoring systems including the Vaccine Adverse Event Reporting System (VAERS). More: https://t.co/VpH3DMePf0. https://t.co/Ct273cWrvS,12/17/2021 16:00:26,81,83,160,7,True
-41,1471646249824702465,CDCGov,"CDC is endorsing updated Advisory Committee on Immunization Practices (ACIP) recommendations for #COVID19 prevention, expressing clinical preference for individuals to receive mRNA COVID-19 vaccine over Johnson &amp; Johnson’s COVID-19 vaccine. Full statement: https://t.co/56xV5TIFJE",12/17/2021 00:59:42,147,92,224,33,False
-42,1471601786007994375,CDCGov,"Rates of #COVID19 cases remain high &amp; are rising in many parts of the United States. As of December 15, the 7-day average of daily new cases is 117,950.
+Here's what you need to know: https://t.co/wbu65KILpe.",12/21/2021 15:00:02,180,95,265,26,False
+1473295097714335746,CDCGov,RT @CDCDirector: News on the #OmicronVariant: National genomic surveillance estimates Omicron accounts for around 73% of #COVID19 cases. Th…,12/21/2021 14:11:38,231,0,0,0,False
+1473035515733716993,CDCGov,"As of Dec. 20, 2021, 241.9 million people have received at least one dose of a #COVID19 vaccine. Of those, 204.1 million are fully vaccinated. More than 60.8 million people have received a COVID-19 booster. 
+Make your vaccination appointment today. More: https://t.co/zYLe3H12re. https://t.co/Ooz2QPHueL",12/20/2021 21:00:09,193,94,414,25,True
+1473007044986916868,CDCGov,"Parents: Taking your child to get their #COVID19 vaccine? Use the 15-minute observation period right after vaccination to enroll them in v-safe, a smartphone-based tool. With v-safe, you can tell CDC if your child has any side effects. More: https://t.co/S4ZmF2foa9. https://t.co/Ca2zVIBXfd",12/20/2021 19:07:01,58,53,102,12,True
+1472967555564417027,CDCGov,Learn how innovative #COVID19 surveillance strategy may facilitate safe in-person schooling in #PublicHealthReports: https://t.co/9F1McG2s3S. https://t.co/i4JMS0ynBn,12/20/2021 16:30:06,44,15,85,4,True
+1472960088663105538,CDCGov,"Too cold to open windows? Improve ventilation in your home by upgrading your HVAC filter, running a HEPA purifier, and using kitchen/bathroom exhaust fans. See how these actions can help reduce #COVID19 particles in your home’s air: https://t.co/TBVrZob27w. https://t.co/b0iyEuBL3K",12/20/2021 16:00:26,167,30,320,26,True
+1472630570362494986,CDCGov,The time Ashley King spent serving on the CDC #COVID19 response team helped her thrive as a young professional. Read her story on #OurGlobalVoices🌍. https://t.co/apbnmtH7wR https://t.co/DaDkh9areB,12/19/2021 18:11:02,24,27,95,3,True
+1472317249230888963,CDCGov,Gathering with friends and family? Consider using #COVID19 self-tests to help protect those you care about. View videos about how to self-test and learn more: https://t.co/6IWdJW0leJ. #TestToProtect https://t.co/1eJtiosdn9,12/18/2021 21:26:01,221,184,393,56,True
+1472284290192920580,CDCGov,"Bob Briley, an emergency management specialist at CDC, is responsible for the logistics of emergency operations. Although #COVID19 has been his focus recently, Bob also has to keep an eye on disasters and civil unrest around the world. More: https://t.co/eRNjmidSyk. https://t.co/9RWo63nwQi",12/18/2021 19:15:03,40,46,125,4,True
+1472235298822275073,CDCGov,"#COVID19 cases, hospitalizations, and deaths have all increased in recent weeks. As people travel and gather this holiday season, take steps to protect yourself and your loved ones. Get vaccinated. If you’re eligible for a booster dose, get one now. More: https://t.co/F4bAyObDp1. https://t.co/dB4rGA6zJX",12/18/2021 16:00:22,270,180,447,38,True
+1471955886511898625,CDCGov,CDC recommends all people ages 5+ years get vaccinated against #COVID19. More than half of parents &amp; guardians of kids ages 5-17 years report that their children have been vaccinated or will definitely get vaccinated. Get your kids vaccinated today. More: https://t.co/weI4b3nKau. https://t.co/TLXC5okDWk,12/17/2021 21:30:05,416,785,868,98,True
+1471933310951731204,CDCGov,"Although vaccination is the best way to protect against #COVID19 for those aged 5 and up, schools might consider Test to Stay strategy for allowing close contacts who are not fully vaccinated to remain in the classroom. Learn more in a new @CDCMMWR: https://t.co/3m64vomRDh. https://t.co/AAENAdxJ1y",12/17/2021 20:00:23,122,104,302,25,True
+1471919055904858126,CDCGov,New CDC research finds Test to Stay is an effective option to minimize absenteeism and learning loss in students exposed to #COVID19 in schools. Learn more: https://t.co/QS1AUmPZJd. https://t.co/Ha1bhQ263A,12/17/2021 19:03:44,52,32,114,13,True
+1471906803369844746,CDCGov,"New @CDCMMWR shows a Test to Stay strategy allowed LA County K-12 students who were not fully vaccinated &amp; exposed to someone w/ #COVID19 to continue in-person learning if they had no COVID-19 symptoms, were regularly tested for COVID-19, &amp; wore a mask. https://t.co/6HWA3iKcc5 https://t.co/1T1APIrqG5",12/17/2021 18:15:03,51,50,115,9,True
+1471895487347363849,CDCGov,#HCPs: Attend today’s COCA Call from 2–3 p.m. EST on Updated Guidance for Clinicians on #COVID19 Vaccines. Learn more: https://t.co/WVm3YZMcUc. https://t.co/oN9aRAduPo,12/17/2021 17:30:05,20,11,44,3,True
+1471887930645954560,CDCGov,Booster Update: New age groups are eligible for #COVID19 booster shots. Learn more: https://t.co/77CTFuJFcO.,12/17/2021 17:00:03,192,81,293,15,False
+1471872927217991685,CDCGov,#COVID19 vaccines have undergone – and will continue to undergo – the most intensive safety monitoring in U.S. history. CDC &amp; FDA are using new and established safety monitoring systems including the Vaccine Adverse Event Reporting System (VAERS). More: https://t.co/VpH3DMePf0. https://t.co/Ct273cWrvS,12/17/2021 16:00:26,80,83,159,7,True
+1471646249824702465,CDCGov,"CDC is endorsing updated Advisory Committee on Immunization Practices (ACIP) recommendations for #COVID19 prevention, expressing clinical preference for individuals to receive mRNA COVID-19 vaccine over Johnson &amp; Johnson’s COVID-19 vaccine. Full statement: https://t.co/56xV5TIFJE",12/17/2021 00:59:42,145,91,221,33,False
+1471601786007994375,CDCGov,"Rates of #COVID19 cases remain high &amp; are rising in many parts of the United States. As of December 15, the 7-day average of daily new cases is 117,950.
 
 Get vaccinated as soon as you can and get a booster shot when you're eligible.
 
-More: https://t.co/CEcelDa6Hb. https://t.co/w7V7juoP2L",12/16/2021 22:03:01,324,166,549,72,True
-43,1471551961543720967,CDCGov,New @CDCMMWR finds adults whose health care provider recommended a #COVID19 vaccine were more likely to get vaccinated than those w/o a recommendation. A provider recommendation was also associated w/ greater confidence in safety of COVID-19 vaccines. https://t.co/hfOnnwBNFf https://t.co/gPfvbIt36s,12/16/2021 18:45:02,61,39,139,4,True
-44,1471525634660880384,CDCGov,"Homeless shelter workers: #COVID19 outbreaks occur in shared settings like homeless shelters. Help protect your clients, fellow staff, volunteers, &amp; yourself by following CDC recommendations and encouraging COVID-19 vaccination. More: https://t.co/tscID7XkkU. https://t.co/daQtaEglgC",12/16/2021 17:00:25,42,20,100,5,True
-45,1471510543550844928,CDCGov,"#CDC is working w/ state &amp; local public health officials to monitor spread of the #Omicron variant. Delta remains the predominant variant in the U.S., but Omicron is increasing. Track variants on CDC’s #COVID Data Tracker: https://t.co/8x4EqpiRpT. https://t.co/gU9KU5u41B",12/16/2021 16:00:27,173,79,321,9,True
-46,1471498055379607571,CDCGov,RT @HHSGov: Here's a recap of yesterday's Kids COVID Vaccine Twitter Chat. See answers from @CDCgov on questions about #COVID19 vaccines fo…,12/16/2021 15:10:50,50,0,0,0,False
-47,1471238720313606144,CDCGov,"As of December 13, 2021, national forecasts predict 620,000–1,300,000 new #COVID19 cases will likely be reported during the week ending December 25, 2021. More: https://t.co/7AP4I3S9PU. https://t.co/HpKMu8nEgR",12/15/2021 22:00:19,26,16,42,3,True
-48,1471238716849020931,CDCGov,"As of December 13, 2021, national forecasts predict 8,900–15,600 new #COVID19 deaths will likely be reported during the week ending January 8, 2022. That would bring the projected total number of U.S. deaths to 837,000–845,000. More: https://t.co/rcqjOX3Ypl. https://t.co/XEJgcf2L1W",12/15/2021 22:00:19,23,17,50,9,True
-49,1471238712948371457,CDCGov,"As of December 13, 2021, national forecasts predict 6,300–18,400 new #COVID19 hospitalizations will likely be reported on January 7, 2022. More: https://t.co/Xys80ZGlxV. https://t.co/JUpPg8vna9",12/15/2021 22:00:18,57,46,104,10,True
-50,1471231098336288771,CDCGov,"🧪COVID-19 Science Update:
+More: https://t.co/CEcelDa6Hb. https://t.co/w7V7juoP2L",12/16/2021 22:03:01,322,165,546,72,True
+1471551961543720967,CDCGov,New @CDCMMWR finds adults whose health care provider recommended a #COVID19 vaccine were more likely to get vaccinated than those w/o a recommendation. A provider recommendation was also associated w/ greater confidence in safety of COVID-19 vaccines. https://t.co/hfOnnwBNFf https://t.co/gPfvbIt36s,12/16/2021 18:45:02,60,39,138,4,True
+1471525634660880384,CDCGov,"Homeless shelter workers: #COVID19 outbreaks occur in shared settings like homeless shelters. Help protect your clients, fellow staff, volunteers, &amp; yourself by following CDC recommendations and encouraging COVID-19 vaccination. More: https://t.co/tscID7XkkU. https://t.co/daQtaEglgC",12/16/2021 17:00:25,41,20,98,5,True
+1471510543550844928,CDCGov,"#CDC is working w/ state &amp; local public health officials to monitor spread of the #Omicron variant. Delta remains the predominant variant in the U.S., but Omicron is increasing. Track variants on CDC’s #COVID Data Tracker: https://t.co/8x4EqpiRpT. https://t.co/gU9KU5u41B",12/16/2021 16:00:27,173,78,320,9,True
+1471498055379607571,CDCGov,RT @HHSGov: Here's a recap of yesterday's Kids COVID Vaccine Twitter Chat. See answers from @CDCgov on questions about #COVID19 vaccines fo…,12/16/2021 15:10:50,49,0,0,0,False
+1471238720313606144,CDCGov,"As of December 13, 2021, national forecasts predict 620,000–1,300,000 new #COVID19 cases will likely be reported during the week ending December 25, 2021. More: https://t.co/7AP4I3S9PU. https://t.co/HpKMu8nEgR",12/15/2021 22:00:19,25,16,41,3,True
+1471238716849020931,CDCGov,"As of December 13, 2021, national forecasts predict 8,900–15,600 new #COVID19 deaths will likely be reported during the week ending January 8, 2022. That would bring the projected total number of U.S. deaths to 837,000–845,000. More: https://t.co/rcqjOX3Ypl. https://t.co/XEJgcf2L1W",12/15/2021 22:00:19,22,17,48,9,True
+1471238712948371457,CDCGov,"As of December 13, 2021, national forecasts predict 6,300–18,400 new #COVID19 hospitalizations will likely be reported on January 7, 2022. More: https://t.co/Xys80ZGlxV. https://t.co/JUpPg8vna9",12/15/2021 22:00:18,56,45,102,10,True
+1471231098336288771,CDCGov,"🧪COVID-19 Science Update:
 
 Read the latest #COVID19 research on the Omicron variant, vaccine effectiveness, cases in children, and more.
 
-👓Read the full update: https://t.co/fpdtmHfoO5.",12/15/2021 21:30:02,85,48,138,13,False
-51,1471212226090569731,CDCGov,"The Women’s National Basketball Players Association (WNBPA) are champions on &amp; off the court. By taking the lead on planning &amp; implementing their #COVID19 vaccine strategy, WNBA players have achieved a 99% vaccination rate. 
+👓Read the full update: https://t.co/fpdtmHfoO5.",12/15/2021 21:30:02,84,48,139,13,False
+1471212226090569731,CDCGov,"The Women’s National Basketball Players Association (WNBPA) are champions on &amp; off the court. By taking the lead on planning &amp; implementing their #COVID19 vaccine strategy, WNBA players have achieved a 99% vaccination rate. 
 
-More: https://t.co/J0YySqTwve. https://t.co/gGrLHxEueO",12/15/2021 20:15:03,51,33,163,5,True
-52,1471208674454614024,CDCGov,A14f: Encourage parents to sign up for V-safe to report how their child feels after #COVID19 vaccination. https://t.co/S4ZmF2foa9 #WellnessWed,12/15/2021 20:00:56,20,8,26,3,False
-53,1471208672864964620,CDCGov,A14e: Share these 12 strategies that are being applied in communities across the country to promote #COVID19 vaccine confidence and uptake. https://t.co/GeelsDNnQY #WellnessWed,12/15/2021 20:00:56,21,5,39,4,False
-54,1471208671178805251,CDCGov,"A14d: Share these action steps school leaders can take to support #COVID19 vaccine uptake and improve health literacy among staff, students, and families: https://t.co/7RTZ4yvb64. #WellnessWed",12/15/2021 20:00:55,5,1,17,1,False
-55,1471208669689917448,CDCGov,A14c: Looking for #COVID19 vaccination information to share with those who may have lower health literacy? Check out this resource available in 5 languages: https://t.co/CiLkQlb1Ek. #WellnessWed,12/15/2021 20:00:55,6,1,13,1,False
-56,1471208668041523207,CDCGov,"A14b: For up-to-date information for jurisdictions, healthcare providers, pharmacists, schools, and community partners on #COVID19 vaccination for children visit: https://t.co/68jbizsj6f. #WellnessWed",12/15/2021 20:00:54,5,1,13,1,False
-57,1471208665642409993,CDCGov,A14a: We offer a suite of digital and downloadable resources to help you promote #COVID19 vaccination for children and teens: https://t.co/vHsIEyYESC. #WellnessWed https://t.co/dRuPcsXREM,12/15/2021 20:00:54,33,8,53,2,False
-58,1471207212991328269,CDCGov,A13c: Find answers to frequently asked questions about #COVID19 vaccination in children: https://t.co/VpH3DMePf0. #WellnessWed,12/15/2021 19:55:07,17,4,33,1,False
-59,1471207211355586563,CDCGov,A13b: Learn Myths and Facts about #COVID19 Vaccines for Children: https://t.co/gPYo3VbjUS. #WellnessWed,12/15/2021 19:55:07,18,7,33,1,False
+More: https://t.co/J0YySqTwve. https://t.co/gGrLHxEueO",12/15/2021 20:15:03,50,33,161,5,True
+1471208674454614024,CDCGov,A14f: Encourage parents to sign up for V-safe to report how their child feels after #COVID19 vaccination. https://t.co/S4ZmF2foa9 #WellnessWed,12/15/2021 20:00:56,19,8,25,3,False
+1471208672864964620,CDCGov,A14e: Share these 12 strategies that are being applied in communities across the country to promote #COVID19 vaccine confidence and uptake. https://t.co/GeelsDNnQY #WellnessWed,12/15/2021 20:00:56,20,5,39,4,False
+1471208671178805251,CDCGov,"A14d: Share these action steps school leaders can take to support #COVID19 vaccine uptake and improve health literacy among staff, students, and families: https://t.co/7RTZ4yvb64. #WellnessWed",12/15/2021 20:00:55,4,1,17,1,False
+1471208669689917448,CDCGov,A14c: Looking for #COVID19 vaccination information to share with those who may have lower health literacy? Check out this resource available in 5 languages: https://t.co/CiLkQlb1Ek. #WellnessWed,12/15/2021 20:00:55,5,1,13,1,False
+1471208668041523207,CDCGov,"A14b: For up-to-date information for jurisdictions, healthcare providers, pharmacists, schools, and community partners on #COVID19 vaccination for children visit: https://t.co/68jbizsj6f. #WellnessWed",12/15/2021 20:00:54,5,1,13,1,False
+1471208665642409993,CDCGov,A14a: We offer a suite of digital and downloadable resources to help you promote #COVID19 vaccination for children and teens: https://t.co/vHsIEyYESC. #WellnessWed https://t.co/dRuPcsXREM,12/15/2021 20:00:54,32,8,53,2,False
+1471207212991328269,CDCGov,A13c: Find answers to frequently asked questions about #COVID19 vaccination in children: https://t.co/VpH3DMePf0. #WellnessWed,12/15/2021 19:55:07,16,4,32,1,False
+1471207211355586563,CDCGov,A13b: Learn Myths and Facts about #COVID19 Vaccines for Children: https://t.co/gPYo3VbjUS. #WellnessWed,12/15/2021 19:55:07,17,7,33,1,False

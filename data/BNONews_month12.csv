@@ -1,2 +1,2 @@
-,tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
-0,1323902358808649731,BNONews,"Republican David Andahl, who died from COVID-19 in October, has been elected to the North Dakota House of Representatives",11/04/2020 08:18:13,11392,2022,41170,25609,False
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1323902358808649731,BNONews,"Republican David Andahl, who died from COVID-19 in October, has been elected to the North Dakota House of Representatives",11/04/2020 08:18:13,11378,2020,41068,25607,False

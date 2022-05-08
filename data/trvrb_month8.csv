@@ -1,0 +1,7 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1286092964586913793,trvrb,"The @CDCgov seroprevalence survey (https://t.co/X7eNAkgdf0) tests blood samples from different sites in the US for COVID-19 antibodies. With a serosurvey, it's possible to look at the path of the epidemic in a broader fashion than what's available from PCR assay results. 2/13",07/23/2020 00:17:11,10,3,88,1,False
+1284255570728382464,trvrb,"Reductions in Rt manifest as a decrease in the slope of logged cases per day. Here, I'm plotting cases through time from @COVID19Tracking. Because the y-axis is logged, exponential growth is a straight line on this plot. 6/15 https://t.co/XcsUP3R027",07/17/2020 22:36:03,19,1,123,1,True
+1279187557259993088,trvrb,"With changes in behavior starting in May, we've seen a ""surge"" in confirmed cases of COVID-19. However, we shouldn't treat the US as a single epidemic. 2/14
+https://t.co/jQOTIpgIRT",07/03/2020 22:57:34,53,5,199,3,False
+1279187556106723333,trvrb,"It's abundantly clear that societal behavior strongly impacts #COVID19 spread. We saw this early on where social distancing resulted in significant reductions to epidemic spread. With the surge of cases in the south, what can we expect going forward? 1/14
+https://t.co/Po4VuHOFks",07/03/2020 22:57:34,679,83,1675,94,False

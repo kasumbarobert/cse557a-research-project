@@ -1,1 +1,11 @@
-""
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1233053172584898560,BNONews,"RT @BNODesk: BREAKING: Iran's former ambassador to the Vatican, Hadi Khosroshahi, has died of coronavirus - IRNA",02/27/2020 15:36:00,8491,0,0,0,False
+1233034388042133505,BNONews,"RT @BNODesk: BREAKING: Masoumeh Ebtekar, one of Iran's vice presidents, has tested positive for coronavirus - IRNA",02/27/2020 14:21:21,1513,0,0,0,False
+1232285063737487362,BNONews,RT @BNODesk: BREAKING: Iran's deputy health minister tests positive for coronavirus; he had previously looked unwell during a press confere…,02/25/2020 12:43:48,6575,0,0,0,False
+1227923207065407489,BNONews,RT @BNODesk: BREAKING: Japan reports 1st death from coronavirus https://t.co/eUoE2b20hL,02/13/2020 11:51:20,384,0,0,0,False
+1227742446643294208,BNONews,"RT @BNODesk: BREAKING: Epicenter of coronavirus outbreak reports 14,840 new cases, including clinically diagnosed cases, and 242 new deaths…",02/12/2020 23:53:04,2427,0,0,0,False
+1226735943002066944,BNONews,"RT @BNODesk: BREAKING: 60 new cases of coronavirus on cruise ship near Tokyo, raising ship's total to 130 - TBS https://t.co/eUoE2b20hL",02/10/2020 05:13:35,381,0,0,0,False
+1226270848794886147,BNONews,"BREAKING: Death toll of coronavirus outbreak rises to 806, surpassing the death toll of the SARS outbreak in 2003 https://t.co/9Tkpni6ljF",02/08/2020 22:25:28,175,19,224,10,False
+1225429885021278209,BNONews,"RT @BNODesk: BREAKING: Chinese doctor Li Wenliang, who was accused of spreading rumors after trying to warn colleagues about coronavirus, h…",02/06/2020 14:43:46,3251,0,0,0,False
+1224564415816720386,BNONews,"RT @BNODesk: BREAKING: Macau, the world's biggest casino hub, to close gambling industry for at least half a month due to coronavirus - TDM…",02/04/2020 05:24:42,383,0,0,0,False
+1223799064015392770,BNONews,"BREAKING: Philippines reports 1st death from new coronavirus, the first outside China https://t.co/KxdT2gTzDf",02/02/2020 02:43:28,245,15,255,29,False

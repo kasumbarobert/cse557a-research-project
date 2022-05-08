@@ -1,0 +1,9 @@
+tweet_id,user,text,date,retweets,replies,likes,quotes,has_viz
+1254871216948523011,trvrb,@arambaut @CovidGenomicsUK @wellcometrust Fantastic work all. So impressed with these efforts.,04/27/2020 20:33:07,1,0,14,0,False
+1254094865064812545,trvrb,"@DocJeffD @COVID19Tracking Definitely. There will also be large differences across US right now in terms of this reporting rate. I’d imagine modeling surrounding number of positives, proportion positive, deaths and serology to try to get at this across states and through time.",04/25/2020 17:08:10,0,1,15,0,False
+1253880781702746113,trvrb,"According to @COVID19Tracking, the US is managing roughly 150k tests per day at this point. These 150k tests are finding about ~30k confirmed cases each day. However, I believe based on modeling results and serology that these have a 10-20X underreporting rate. 2/9",04/25/2020 02:57:28,148,11,461,10,False
+1253880780830326786,trvrb,"If we're going to manage a #TestTraceIsolate solution to the #COVID19 epidemic, we need a massive scale up in testing. There are some really exciting initiatives here. 1/9",04/25/2020 02:57:28,865,54,2277,120,False
+1253784056908529664,trvrb,"RT @nextstrain: Our weekly #COVID19 Situation Report focuses on Africa, with data from the DRC, Senegal, Ghana, Algeria, Gambia, South Afri…",04/24/2020 20:33:08,64,0,0,0,False
+1253453931948072961,trvrb,@akatradewind Yes. Age-stratification hugely important. But the 10X differential in IFR between COVID-19 and seasonal flu appears to be perhaps somewhat constant across age groups: https://t.co/44XgKaCe9k.,04/23/2020 22:41:20,12,1,88,3,False
+1253436656742305793,trvrb,"We can compare #COVID19 1% infection fatality rate with an expected &gt;80% attack rate (R0 of ~3) to seasonal influenza with 0.1% IFR and yearly attack rate of ~10%. Simple math would put unmitigated spread as &gt;80X worse than a typical flu season.
+https://t.co/uLHDQz0Fqq",04/23/2020 21:32:41,837,78,1835,101,False
